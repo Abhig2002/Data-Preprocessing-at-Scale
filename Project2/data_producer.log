@@ -1,0 +1,3065 @@
+nohup: ignoring input
+{'_connect-configs': TopicMetadata(_connect-configs, 1 partitions), '_connect-offsets': TopicMetadata(_connect-offsets, 25 partitions), '_connect-status': TopicMetadata(_connect-status, 5 partitions), '__consumer_offsets': TopicMetadata(__consumer_offsets, 50 partitions)}
+-----------------------------
+1530
+1
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":159,"DOLocationID":159,"fare_amount":7.5}'
+2
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":159,"DOLocationID":212,"fare_amount":9.5}'
+3
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":167,"DOLocationID":78,"fare_amount":18.2}'
+4
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":174,"DOLocationID":254,"fare_amount":16.2}'
+5
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":69,"DOLocationID":254,"fare_amount":28.2}'
+6
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+7
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":119,"DOLocationID":213,"fare_amount":26.2}'
+8
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":78,"DOLocationID":78,"fare_amount":15.2}'
+9
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":51,"DOLocationID":94,"fare_amount":26.2}'
+10
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+11
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":18,"DOLocationID":136,"fare_amount":17.2}'
+12
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":159,"DOLocationID":159,"fare_amount":16.2}'
+13
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":78,"DOLocationID":242,"fare_amount":21.2}'
+14
+Message sent to Kafka: b'{"trip_distance":4.05,"PULocationID":259,"DOLocationID":235,"fare_amount":13.5}'
+15
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":18,"DOLocationID":185,"fare_amount":20.2}'
+16
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+17
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":136,"DOLocationID":242,"fare_amount":21.2}'
+18
+Message sent to Kafka: b'{"trip_distance":0.49,"PULocationID":208,"DOLocationID":208,"fare_amount":4.5}'
+19
+Message sent to Kafka: b'{"trip_distance":8.5,"PULocationID":247,"DOLocationID":242,"fare_amount":39.2}'
+20
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":69,"DOLocationID":174,"fare_amount":31.2}'
+21
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":213,"DOLocationID":242,"fare_amount":19.2}'
+22
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":208,"DOLocationID":242,"fare_amount":16.2}'
+23
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":242,"DOLocationID":119,"fare_amount":29.2}'
+24
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":242,"DOLocationID":213,"fare_amount":22.2}'
+25
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+26
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":242,"DOLocationID":159,"fare_amount":28.2}'
+27
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":32,"DOLocationID":242,"fare_amount":21.2}'
+28
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":32,"DOLocationID":242,"fare_amount":22.2}'
+29
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":242,"DOLocationID":213,"fare_amount":22.2}'
+30
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":136,"DOLocationID":182,"fare_amount":23.2}'
+31
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":242,"DOLocationID":60,"fare_amount":18.2}'
+32
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":18,"fare_amount":22.2}'
+33
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":182,"DOLocationID":174,"fare_amount":23.2}'
+34
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":242,"DOLocationID":248,"fare_amount":20.2}'
+35
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":78,"fare_amount":21.2}'
+36
+Message sent to Kafka: b'{"trip_distance":6.5,"PULocationID":235,"DOLocationID":183,"fare_amount":24.2}'
+37
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":183,"DOLocationID":51,"fare_amount":15.2}'
+38
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":242,"DOLocationID":182,"fare_amount":20.2}'
+39
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":185,"DOLocationID":208,"fare_amount":18.2}'
+40
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":183,"DOLocationID":185,"fare_amount":15.2}'
+41
+Message sent to Kafka: b'{"trip_distance":0.76,"PULocationID":18,"DOLocationID":241,"fare_amount":5.0}'
+42
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":242,"DOLocationID":185,"fare_amount":20.2}'
+43
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":242,"DOLocationID":51,"fare_amount":20.2}'
+44
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":182,"DOLocationID":242,"fare_amount":18.2}'
+45
+Message sent to Kafka: b'{"trip_distance":0.56,"PULocationID":167,"DOLocationID":159,"fare_amount":4.5}'
+46
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":185,"DOLocationID":183,"fare_amount":15.2}'
+47
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":159,"DOLocationID":51,"fare_amount":35.2}'
+48
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":208,"DOLocationID":182,"fare_amount":17.2}'
+49
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+50
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+51
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":20,"DOLocationID":51,"fare_amount":25.2}'
+52
+Message sent to Kafka: b'{"trip_distance":0.77,"PULocationID":119,"DOLocationID":119,"fare_amount":5.0}'
+53
+Message sent to Kafka: b'{"trip_distance":1.74,"PULocationID":69,"DOLocationID":168,"fare_amount":8.5}'
+54
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":169,"DOLocationID":69,"fare_amount":9.5}'
+55
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":69,"DOLocationID":119,"fare_amount":5.5}'
+56
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":32,"DOLocationID":168,"fare_amount":22.5}'
+57
+Message sent to Kafka: b'{"trip_distance":1.11,"PULocationID":69,"DOLocationID":69,"fare_amount":6.5}'
+58
+Message sent to Kafka: b'{"trip_distance":5.7,"PULocationID":81,"DOLocationID":69,"fare_amount":31.2}'
+59
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":147,"DOLocationID":208,"fare_amount":24.2}'
+60
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+61
+Message sent to Kafka: b'{"trip_distance":11.8,"PULocationID":200,"DOLocationID":147,"fare_amount":36.0}'
+62
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":159,"DOLocationID":147,"fare_amount":7.0}'
+63
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+64
+Message sent to Kafka: b'{"trip_distance":4.83,"PULocationID":213,"DOLocationID":168,"fare_amount":16.5}'
+65
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":220,"DOLocationID":259,"fare_amount":22.2}'
+66
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":47,"DOLocationID":185,"fare_amount":24.2}'
+67
+Message sent to Kafka: b'{"trip_distance":1.01,"PULocationID":167,"DOLocationID":159,"fare_amount":6.5}'
+68
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":147,"DOLocationID":167,"fare_amount":4.5}'
+69
+Message sent to Kafka: b'{"trip_distance":4.99,"PULocationID":168,"DOLocationID":213,"fare_amount":18.0}'
+70
+Message sent to Kafka: b'{"trip_distance":1.04,"PULocationID":168,"DOLocationID":168,"fare_amount":6.5}'
+71
+Message sent to Kafka: b'{"trip_distance":21.6,"PULocationID":241,"DOLocationID":241,"fare_amount":73.0}'
+72
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":208,"DOLocationID":242,"fare_amount":8.0}'
+73
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":69,"DOLocationID":247,"fare_amount":15.2}'
+74
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":174,"DOLocationID":20,"fare_amount":15.2}'
+75
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":126,"DOLocationID":174,"fare_amount":20.2}'
+76
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":60,"DOLocationID":60,"fare_amount":4.5}'
+77
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":254,"DOLocationID":220,"fare_amount":17.2}'
+78
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":241,"DOLocationID":174,"fare_amount":7.5}'
+79
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":174,"DOLocationID":241,"fare_amount":17.5}'
+80
+Message sent to Kafka: b'{"trip_distance":0.63,"PULocationID":159,"DOLocationID":247,"fare_amount":4.5}'
+81
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":213,"DOLocationID":168,"fare_amount":18.2}'
+82
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":168,"DOLocationID":213,"fare_amount":20.2}'
+83
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":212,"DOLocationID":126,"fare_amount":19.2}'
+84
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":182,"DOLocationID":208,"fare_amount":17.2}'
+85
+Message sent to Kafka: b'{"trip_distance":7.9,"PULocationID":254,"DOLocationID":168,"fare_amount":31.2}'
+86
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":174,"DOLocationID":247,"fare_amount":22.2}'
+87
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":248,"DOLocationID":136,"fare_amount":23.2}'
+88
+Message sent to Kafka: b'{"trip_distance":6.31,"PULocationID":147,"DOLocationID":241,"fare_amount":21.5}'
+89
+Message sent to Kafka: b'{"trip_distance":1.36,"PULocationID":242,"DOLocationID":208,"fare_amount":7.0}'
+90
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":182,"DOLocationID":159,"fare_amount":23.2}'
+91
+Message sent to Kafka: b'{"trip_distance":6.61,"PULocationID":126,"DOLocationID":51,"fare_amount":20.5}'
+92
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":183,"DOLocationID":78,"fare_amount":20.2}'
+93
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":126,"DOLocationID":200,"fare_amount":34.2}'
+94
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":213,"DOLocationID":51,"fare_amount":22.2}'
+95
+Message sent to Kafka: b'{"trip_distance":0.21,"PULocationID":126,"DOLocationID":126,"fare_amount":60.0}'
+96
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":20,"DOLocationID":51,"fare_amount":25.2}'
+97
+Message sent to Kafka: b'{"trip_distance":1.02,"PULocationID":159,"DOLocationID":168,"fare_amount":7.5}'
+98
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":208,"DOLocationID":182,"fare_amount":17.2}'
+99
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":248,"DOLocationID":208,"fare_amount":21.2}'
+100
+Message sent to Kafka: b'{"trip_distance":8.9,"PULocationID":208,"DOLocationID":235,"fare_amount":25.2}'
+101
+Message sent to Kafka: b'{"trip_distance":7.69,"PULocationID":220,"DOLocationID":168,"fare_amount":25.0}'
+102
+Message sent to Kafka: b'{"trip_distance":2.18,"PULocationID":254,"DOLocationID":81,"fare_amount":11.0}'
+103
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":242,"DOLocationID":136,"fare_amount":16.2}'
+104
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":182,"DOLocationID":208,"fare_amount":17.2}'
+105
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":250,"DOLocationID":213,"fare_amount":15.2}'
+106
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":213,"DOLocationID":51,"fare_amount":20.2}'
+107
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":119,"DOLocationID":213,"fare_amount":26.2}'
+108
+Message sent to Kafka: b'{"trip_distance":6.4,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+109
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+110
+Message sent to Kafka: b'{"trip_distance":0.63,"PULocationID":119,"DOLocationID":247,"fare_amount":4.5}'
+111
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+112
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":119,"DOLocationID":159,"fare_amount":9.0}'
+113
+Message sent to Kafka: b'{"trip_distance":1.07,"PULocationID":20,"DOLocationID":18,"fare_amount":8.5}'
+114
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":119,"DOLocationID":159,"fare_amount":15.2}'
+115
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":159,"DOLocationID":126,"fare_amount":15.2}'
+116
+Message sent to Kafka: b'{"trip_distance":7.7,"PULocationID":220,"DOLocationID":250,"fare_amount":28.2}'
+117
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+118
+Message sent to Kafka: b'{"trip_distance":5.7,"PULocationID":167,"DOLocationID":174,"fare_amount":27.2}'
+119
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":119,"DOLocationID":235,"fare_amount":20.2}'
+120
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":212,"DOLocationID":119,"fare_amount":17.2}'
+121
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":119,"DOLocationID":119,"fare_amount":5.0}'
+122
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":220,"DOLocationID":220,"fare_amount":15.2}'
+123
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":213,"DOLocationID":119,"fare_amount":24.2}'
+124
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":78,"DOLocationID":168,"fare_amount":44.2}'
+125
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":235,"DOLocationID":51,"fare_amount":30.2}'
+126
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":94,"DOLocationID":119,"fare_amount":17.2}'
+127
+Message sent to Kafka: b'{"trip_distance":3.49,"PULocationID":168,"DOLocationID":212,"fare_amount":12.0}'
+128
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":47,"DOLocationID":94,"fare_amount":15.2}'
+129
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":213,"DOLocationID":250,"fare_amount":18.2}'
+130
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":220,"DOLocationID":220,"fare_amount":15.2}'
+131
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":213,"DOLocationID":31,"fare_amount":24.2}'
+132
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":167,"DOLocationID":18,"fare_amount":23.2}'
+133
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":174,"DOLocationID":47,"fare_amount":22.2}'
+134
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":119,"DOLocationID":235,"fare_amount":12.5}'
+135
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":185,"DOLocationID":182,"fare_amount":15.2}'
+136
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":51,"DOLocationID":51,"fare_amount":19.2}'
+137
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":182,"DOLocationID":242,"fare_amount":16.2}'
+138
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":174,"DOLocationID":259,"fare_amount":19.2}'
+139
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":212,"DOLocationID":126,"fare_amount":19.2}'
+140
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":69,"DOLocationID":69,"fare_amount":5.5}'
+141
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":254,"DOLocationID":47,"fare_amount":20.2}'
+142
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":78,"DOLocationID":18,"fare_amount":12.5}'
+143
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":69,"DOLocationID":159,"fare_amount":8.0}'
+144
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":159,"DOLocationID":47,"fare_amount":13.0}'
+145
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+146
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":47,"DOLocationID":78,"fare_amount":8.5}'
+147
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":3,"DOLocationID":51,"fare_amount":10.0}'
+148
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":69,"DOLocationID":235,"fare_amount":12.5}'
+149
+Message sent to Kafka: b'{"trip_distance":1.12,"PULocationID":169,"DOLocationID":169,"fare_amount":7.0}'
+150
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":208,"DOLocationID":78,"fare_amount":18.2}'
+151
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":235,"DOLocationID":213,"fare_amount":19.2}'
+152
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":185,"DOLocationID":169,"fare_amount":17.2}'
+153
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":213,"DOLocationID":235,"fare_amount":20.2}'
+154
+Message sent to Kafka: b'{"trip_distance":1.36,"PULocationID":47,"DOLocationID":78,"fare_amount":7.5}'
+155
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":168,"DOLocationID":213,"fare_amount":15.0}'
+156
+Message sent to Kafka: b'{"trip_distance":5.67,"PULocationID":168,"DOLocationID":212,"fare_amount":18.5}'
+157
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":235,"DOLocationID":213,"fare_amount":19.2}'
+158
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":213,"DOLocationID":235,"fare_amount":20.2}'
+159
+Message sent to Kafka: b'{"trip_distance":2.15,"PULocationID":69,"DOLocationID":126,"fare_amount":10.5}'
+160
+Message sent to Kafka: b'{"trip_distance":3.67,"PULocationID":126,"DOLocationID":31,"fare_amount":15.0}'
+161
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":159,"DOLocationID":235,"fare_amount":13.5}'
+162
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+163
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":220,"DOLocationID":185,"fare_amount":23.2}'
+164
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+165
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":167,"DOLocationID":242,"fare_amount":19.2}'
+166
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":78,"DOLocationID":242,"fare_amount":19.2}'
+167
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":248,"DOLocationID":47,"fare_amount":18.2}'
+168
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":174,"DOLocationID":47,"fare_amount":20.2}'
+169
+Message sent to Kafka: b'{"trip_distance":7.7,"PULocationID":51,"DOLocationID":47,"fare_amount":33.2}'
+170
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":185,"DOLocationID":51,"fare_amount":17.2}'
+171
+Message sent to Kafka: b'{"trip_distance":6.9,"PULocationID":213,"DOLocationID":119,"fare_amount":24.2}'
+172
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":174,"DOLocationID":18,"fare_amount":17.2}'
+173
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":168,"DOLocationID":185,"fare_amount":28.2}'
+174
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":47,"DOLocationID":248,"fare_amount":19.2}'
+175
+Message sent to Kafka: b'{"trip_distance":2.45,"PULocationID":60,"DOLocationID":119,"fare_amount":13.0}'
+176
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":182,"DOLocationID":126,"fare_amount":15.2}'
+177
+Message sent to Kafka: b'{"trip_distance":0.23,"PULocationID":159,"DOLocationID":159,"fare_amount":3.5}'
+178
+Message sent to Kafka: b'{"trip_distance":4.51,"PULocationID":213,"DOLocationID":69,"fare_amount":21.5}'
+179
+Message sent to Kafka: b'{"trip_distance":8.3,"PULocationID":168,"DOLocationID":51,"fare_amount":26.0}'
+180
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":168,"DOLocationID":182,"fare_amount":24.2}'
+181
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":247,"DOLocationID":78,"fare_amount":18.2}'
+182
+Message sent to Kafka: b'{"trip_distance":3.32,"PULocationID":159,"DOLocationID":235,"fare_amount":13.0}'
+183
+Message sent to Kafka: b'{"trip_distance":2.64,"PULocationID":94,"DOLocationID":167,"fare_amount":15.0}'
+184
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":213,"DOLocationID":185,"fare_amount":21.2}'
+185
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+186
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":247,"DOLocationID":20,"fare_amount":15.2}'
+187
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":20,"DOLocationID":126,"fare_amount":18.2}'
+188
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":126,"DOLocationID":119,"fare_amount":17.2}'
+189
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":78,"DOLocationID":20,"fare_amount":9.0}'
+190
+Message sent to Kafka: b'{"trip_distance":1.33,"PULocationID":168,"DOLocationID":69,"fare_amount":9.0}'
+191
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":119,"DOLocationID":51,"fare_amount":26.2}'
+192
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":147,"DOLocationID":167,"fare_amount":6.0}'
+193
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":147,"DOLocationID":78,"fare_amount":17.2}'
+194
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":167,"DOLocationID":126,"fare_amount":9.0}'
+195
+Message sent to Kafka: b'{"trip_distance":7.8,"PULocationID":168,"DOLocationID":208,"fare_amount":22.0}'
+196
+Message sent to Kafka: b'{"trip_distance":12.1,"PULocationID":247,"DOLocationID":51,"fare_amount":39.0}'
+197
+Message sent to Kafka: b'{"trip_distance":0.33,"PULocationID":247,"DOLocationID":247,"fare_amount":3.5}'
+198
+Message sent to Kafka: b'{"trip_distance":0.89,"PULocationID":81,"DOLocationID":81,"fare_amount":5.0}'
+199
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":78,"DOLocationID":47,"fare_amount":8.5}'
+200
+Message sent to Kafka: b'{"trip_distance":8.81,"PULocationID":235,"DOLocationID":18,"fare_amount":28.5}'
+201
+Message sent to Kafka: b'{"trip_distance":7.37,"PULocationID":69,"DOLocationID":259,"fare_amount":24.0}'
+202
+Message sent to Kafka: b'{"trip_distance":0.69,"PULocationID":167,"DOLocationID":167,"fare_amount":4.5}'
+203
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":168,"DOLocationID":20,"fare_amount":16.5}'
+204
+Message sent to Kafka: b'{"trip_distance":4.52,"PULocationID":147,"DOLocationID":208,"fare_amount":16.0}'
+205
+Message sent to Kafka: b'{"trip_distance":0.54,"PULocationID":126,"DOLocationID":126,"fare_amount":4.5}'
+206
+Message sent to Kafka: b'{"trip_distance":9.1,"PULocationID":200,"DOLocationID":168,"fare_amount":34.2}'
+207
+Message sent to Kafka: b'{"trip_distance":7.3,"PULocationID":220,"DOLocationID":247,"fare_amount":30.2}'
+208
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":168,"DOLocationID":168,"fare_amount":5.0}'
+209
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+210
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":126,"DOLocationID":60,"fare_amount":17.2}'
+211
+Message sent to Kafka: b'{"trip_distance":6.1,"PULocationID":81,"DOLocationID":213,"fare_amount":22.2}'
+212
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":213,"DOLocationID":213,"fare_amount":5.5}'
+213
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":51,"DOLocationID":213,"fare_amount":20.2}'
+214
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+215
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":69,"DOLocationID":147,"fare_amount":17.2}'
+216
+Message sent to Kafka: b'{"trip_distance":7.0,"PULocationID":78,"DOLocationID":51,"fare_amount":29.2}'
+217
+Message sent to Kafka: b'{"trip_distance":9.0,"PULocationID":18,"DOLocationID":51,"fare_amount":25.2}'
+218
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":254,"DOLocationID":242,"fare_amount":24.2}'
+219
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":51,"DOLocationID":18,"fare_amount":22.2}'
+220
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":51,"DOLocationID":259,"fare_amount":17.2}'
+221
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":241,"DOLocationID":183,"fare_amount":29.2}'
+222
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":185,"DOLocationID":212,"fare_amount":15.2}'
+223
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":212,"DOLocationID":78,"fare_amount":15.2}'
+224
+Message sent to Kafka: b'{"trip_distance":1.79,"PULocationID":60,"DOLocationID":159,"fare_amount":8.0}'
+225
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":78,"DOLocationID":182,"fare_amount":15.2}'
+226
+Message sent to Kafka: b'{"trip_distance":5.52,"PULocationID":168,"DOLocationID":213,"fare_amount":18.0}'
+227
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":78,"DOLocationID":78,"fare_amount":17.2}'
+228
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":94,"DOLocationID":119,"fare_amount":15.2}'
+229
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":119,"DOLocationID":241,"fare_amount":15.2}'
+230
+Message sent to Kafka: b'{"trip_distance":6.56,"PULocationID":220,"DOLocationID":220,"fare_amount":33.0}'
+231
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":168,"DOLocationID":235,"fare_amount":25.2}'
+232
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":241,"DOLocationID":51,"fare_amount":18.2}'
+233
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+234
+Message sent to Kafka: b'{"trip_distance":2.76,"PULocationID":235,"DOLocationID":247,"fare_amount":13.5}'
+235
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":169,"DOLocationID":119,"fare_amount":18.2}'
+236
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":126,"DOLocationID":174,"fare_amount":20.2}'
+237
+Message sent to Kafka: b'{"trip_distance":1.06,"PULocationID":168,"DOLocationID":168,"fare_amount":5.5}'
+238
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":208,"DOLocationID":182,"fare_amount":18.2}'
+239
+Message sent to Kafka: b'{"trip_distance":0.96,"PULocationID":60,"DOLocationID":78,"fare_amount":5.0}'
+240
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":69,"DOLocationID":119,"fare_amount":9.0}'
+241
+Message sent to Kafka: b'{"trip_distance":1.18,"PULocationID":169,"DOLocationID":235,"fare_amount":8.5}'
+242
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":119,"DOLocationID":159,"fare_amount":11.0}'
+243
+Message sent to Kafka: b'{"trip_distance":2.59,"PULocationID":169,"DOLocationID":159,"fare_amount":11.5}'
+244
+Message sent to Kafka: b'{"trip_distance":1.13,"PULocationID":126,"DOLocationID":212,"fare_amount":6.5}'
+245
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":168,"DOLocationID":60,"fare_amount":12.0}'
+246
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":60,"DOLocationID":167,"fare_amount":4.0}'
+247
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":126,"DOLocationID":126,"fare_amount":13.5}'
+248
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":235,"DOLocationID":31,"fare_amount":15.5}'
+249
+Message sent to Kafka: b'{"trip_distance":1.23,"PULocationID":119,"DOLocationID":69,"fare_amount":6.0}'
+250
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":159,"DOLocationID":167,"fare_amount":6.5}'
+251
+Message sent to Kafka: b'{"trip_distance":6.7,"PULocationID":167,"DOLocationID":81,"fare_amount":28.2}'
+252
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":51,"DOLocationID":51,"fare_amount":17.2}'
+253
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":168,"DOLocationID":47,"fare_amount":24.2}'
+254
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":81,"DOLocationID":174,"fare_amount":20.2}'
+255
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":208,"DOLocationID":20,"fare_amount":26.2}'
+256
+Message sent to Kafka: b'{"trip_distance":6.4,"PULocationID":119,"DOLocationID":254,"fare_amount":28.2}'
+257
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":182,"DOLocationID":174,"fare_amount":22.2}'
+258
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":51,"DOLocationID":242,"fare_amount":20.2}'
+259
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":241,"DOLocationID":168,"fare_amount":26.2}'
+260
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":235,"DOLocationID":69,"fare_amount":18.2}'
+261
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":81,"DOLocationID":167,"fare_amount":37.2}'
+262
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":20,"DOLocationID":47,"fare_amount":18.2}'
+263
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":250,"DOLocationID":69,"fare_amount":22.2}'
+264
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":3,"DOLocationID":32,"fare_amount":17.2}'
+265
+Message sent to Kafka: b'{"trip_distance":8.56,"PULocationID":247,"DOLocationID":259,"fare_amount":26.0}'
+266
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":18,"DOLocationID":18,"fare_amount":12.2}'
+267
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":167,"DOLocationID":136,"fare_amount":21.2}'
+268
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":32,"DOLocationID":167,"fare_amount":23.2}'
+269
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":78,"DOLocationID":78,"fare_amount":15.2}'
+270
+Message sent to Kafka: b'{"trip_distance":0.89,"PULocationID":220,"DOLocationID":220,"fare_amount":4.5}'
+271
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":136,"DOLocationID":3,"fare_amount":21.2}'
+272
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":78,"DOLocationID":254,"fare_amount":22.2}'
+273
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":254,"DOLocationID":254,"fare_amount":15.2}'
+274
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":259,"DOLocationID":78,"fare_amount":24.2}'
+275
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":167,"DOLocationID":235,"fare_amount":19.2}'
+276
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":247,"DOLocationID":69,"fare_amount":16.2}'
+277
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":242,"DOLocationID":51,"fare_amount":20.2}'
+278
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":185,"DOLocationID":254,"fare_amount":20.2}'
+279
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":247,"DOLocationID":119,"fare_amount":6.0}'
+280
+Message sent to Kafka: b'{"trip_distance":0.51,"PULocationID":159,"DOLocationID":69,"fare_amount":6.0}'
+281
+Message sent to Kafka: b'{"trip_distance":0.57,"PULocationID":200,"DOLocationID":220,"fare_amount":3.5}'
+282
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":213,"DOLocationID":126,"fare_amount":9.5}'
+283
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":51,"DOLocationID":32,"fare_amount":20.2}'
+284
+Message sent to Kafka: b'{"trip_distance":6.7,"PULocationID":220,"DOLocationID":78,"fare_amount":30.2}'
+285
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":159,"DOLocationID":147,"fare_amount":17.2}'
+286
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":136,"DOLocationID":185,"fare_amount":19.2}'
+287
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":147,"DOLocationID":241,"fare_amount":22.2}'
+288
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":182,"DOLocationID":126,"fare_amount":15.2}'
+289
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":51,"DOLocationID":242,"fare_amount":22.2}'
+290
+Message sent to Kafka: b'{"trip_distance":6.9,"PULocationID":182,"DOLocationID":200,"fare_amount":30.2}'
+291
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":168,"DOLocationID":20,"fare_amount":27.2}'
+292
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":78,"DOLocationID":94,"fare_amount":17.2}'
+293
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":69,"DOLocationID":159,"fare_amount":16.2}'
+294
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":167,"DOLocationID":174,"fare_amount":26.2}'
+295
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":220,"DOLocationID":20,"fare_amount":21.2}'
+296
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":212,"DOLocationID":183,"fare_amount":21.2}'
+297
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":250,"DOLocationID":51,"fare_amount":21.2}'
+298
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":126,"DOLocationID":119,"fare_amount":19.2}'
+299
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":60,"DOLocationID":159,"fare_amount":18.2}'
+300
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":18,"DOLocationID":94,"fare_amount":15.2}'
+301
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":20,"DOLocationID":212,"fare_amount":20.2}'
+302
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":169,"DOLocationID":69,"fare_amount":6.5}'
+303
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":47,"DOLocationID":241,"fare_amount":23.2}'
+304
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":213,"DOLocationID":78,"fare_amount":22.2}'
+305
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":47,"DOLocationID":20,"fare_amount":17.2}'
+306
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":147,"DOLocationID":182,"fare_amount":20.2}'
+307
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":248,"DOLocationID":32,"fare_amount":18.2}'
+308
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":185,"DOLocationID":51,"fare_amount":16.2}'
+309
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":167,"DOLocationID":78,"fare_amount":17.2}'
+310
+Message sent to Kafka: b'{"trip_distance":0.73,"PULocationID":167,"DOLocationID":159,"fare_amount":10.5}'
+311
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":32,"DOLocationID":51,"fare_amount":21.2}'
+312
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":20,"DOLocationID":208,"fare_amount":26.2}'
+313
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":242,"DOLocationID":47,"fare_amount":20.2}'
+314
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":47,"DOLocationID":242,"fare_amount":19.2}'
+315
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":136,"DOLocationID":3,"fare_amount":23.2}'
+316
+Message sent to Kafka: b'{"trip_distance":5.9,"PULocationID":254,"DOLocationID":212,"fare_amount":25.2}'
+317
+Message sent to Kafka: b'{"trip_distance":8.5,"PULocationID":208,"DOLocationID":220,"fare_amount":45.2}'
+318
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":168,"DOLocationID":241,"fare_amount":27.2}'
+319
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":47,"DOLocationID":81,"fare_amount":32.2}'
+320
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":174,"DOLocationID":213,"fare_amount":24.2}'
+321
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":69,"DOLocationID":32,"fare_amount":25.2}'
+322
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":69,"DOLocationID":94,"fare_amount":20.2}'
+323
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":168,"DOLocationID":168,"fare_amount":16.2}'
+324
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":167,"DOLocationID":32,"fare_amount":26.2}'
+325
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":51,"DOLocationID":169,"fare_amount":30.2}'
+326
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":254,"DOLocationID":235,"fare_amount":28.2}'
+327
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":3,"DOLocationID":136,"fare_amount":25.2}'
+328
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":119,"DOLocationID":78,"fare_amount":21.2}'
+329
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":159,"DOLocationID":167,"fare_amount":16.2}'
+330
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":208,"DOLocationID":185,"fare_amount":24.2}'
+331
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":182,"DOLocationID":242,"fare_amount":15.2}'
+332
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":69,"DOLocationID":159,"fare_amount":4.5}'
+333
+Message sent to Kafka: b'{"trip_distance":0.27,"PULocationID":119,"DOLocationID":247,"fare_amount":3.5}'
+334
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":182,"DOLocationID":119,"fare_amount":24.2}'
+335
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":213,"DOLocationID":235,"fare_amount":23.2}'
+336
+Message sent to Kafka: b'{"trip_distance":0.23,"PULocationID":168,"DOLocationID":168,"fare_amount":3.5}'
+337
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":247,"DOLocationID":168,"fare_amount":8.0}'
+338
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+339
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":235,"DOLocationID":69,"fare_amount":19.2}'
+340
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":235,"DOLocationID":235,"fare_amount":16.2}'
+341
+Message sent to Kafka: b'{"trip_distance":2.03,"PULocationID":254,"DOLocationID":174,"fare_amount":10.5}'
+342
+Message sent to Kafka: b'{"trip_distance":0.48,"PULocationID":208,"DOLocationID":208,"fare_amount":4.0}'
+343
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+344
+Message sent to Kafka: b'{"trip_distance":7.1,"PULocationID":200,"DOLocationID":247,"fare_amount":26.5}'
+345
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":119,"DOLocationID":159,"fare_amount":17.2}'
+346
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":242,"DOLocationID":47,"fare_amount":21.2}'
+347
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":51,"DOLocationID":174,"fare_amount":19.2}'
+348
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":242,"DOLocationID":69,"fare_amount":22.2}'
+349
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":32,"DOLocationID":119,"fare_amount":22.2}'
+350
+Message sent to Kafka: b'{"trip_distance":7.3,"PULocationID":69,"DOLocationID":58,"fare_amount":25.5}'
+351
+Message sent to Kafka: b'{"trip_distance":7.1,"PULocationID":213,"DOLocationID":119,"fare_amount":24.2}'
+352
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":47,"DOLocationID":169,"fare_amount":16.2}'
+353
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":119,"DOLocationID":20,"fare_amount":15.2}'
+354
+Message sent to Kafka: b'{"trip_distance":1.85,"PULocationID":174,"DOLocationID":254,"fare_amount":12.5}'
+355
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":259,"DOLocationID":213,"fare_amount":30.2}'
+356
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":167,"DOLocationID":18,"fare_amount":20.2}'
+357
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":20,"DOLocationID":119,"fare_amount":15.2}'
+358
+Message sent to Kafka: b'{"trip_distance":13.2,"PULocationID":58,"DOLocationID":200,"fare_amount":35.5}'
+359
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":220,"DOLocationID":200,"fare_amount":3.5}'
+360
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":159,"DOLocationID":159,"fare_amount":15.2}'
+361
+Message sent to Kafka: b'{"trip_distance":2.66,"PULocationID":78,"DOLocationID":60,"fare_amount":10.5}'
+362
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":182,"DOLocationID":119,"fare_amount":22.2}'
+363
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":60,"DOLocationID":78,"fare_amount":12.0}'
+364
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":247,"DOLocationID":235,"fare_amount":11.5}'
+365
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":18,"DOLocationID":47,"fare_amount":10.0}'
+366
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":242,"DOLocationID":182,"fare_amount":15.2}'
+367
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":242,"DOLocationID":167,"fare_amount":24.2}'
+368
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":3,"DOLocationID":235,"fare_amount":24.2}'
+369
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+370
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":20,"DOLocationID":69,"fare_amount":20.0}'
+371
+Message sent to Kafka: b'{"trip_distance":0.97,"PULocationID":78,"DOLocationID":47,"fare_amount":8.5}'
+372
+Message sent to Kafka: b'{"trip_distance":1.11,"PULocationID":247,"DOLocationID":69,"fare_amount":16.5}'
+373
+Message sent to Kafka: b'{"trip_distance":1.74,"PULocationID":47,"DOLocationID":18,"fare_amount":12.5}'
+374
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":168,"DOLocationID":250,"fare_amount":19.0}'
+375
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":242,"DOLocationID":248,"fare_amount":19.2}'
+376
+Message sent to Kafka: b'{"trip_distance":1.81,"PULocationID":168,"DOLocationID":47,"fare_amount":11.5}'
+377
+Message sent to Kafka: b'{"trip_distance":4.77,"PULocationID":119,"DOLocationID":248,"fare_amount":20.0}'
+378
+Message sent to Kafka: b'{"trip_distance":8.46,"PULocationID":169,"DOLocationID":213,"fare_amount":31.5}'
+379
+Message sent to Kafka: b'{"trip_distance":2.16,"PULocationID":159,"DOLocationID":119,"fare_amount":10.0}'
+380
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":174,"DOLocationID":235,"fare_amount":19.5}'
+381
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":147,"DOLocationID":168,"fare_amount":9.5}'
+382
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":241,"DOLocationID":235,"fare_amount":11.5}'
+383
+Message sent to Kafka: b'{"trip_distance":1.01,"PULocationID":147,"DOLocationID":167,"fare_amount":9.5}'
+384
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":18,"DOLocationID":169,"fare_amount":7.5}'
+385
+Message sent to Kafka: b'{"trip_distance":1.42,"PULocationID":220,"DOLocationID":200,"fare_amount":6.5}'
+386
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":247,"DOLocationID":168,"fare_amount":11.0}'
+387
+Message sent to Kafka: b'{"trip_distance":0.66,"PULocationID":167,"DOLocationID":167,"fare_amount":4.5}'
+388
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":167,"DOLocationID":159,"fare_amount":6.0}'
+389
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":51,"DOLocationID":60,"fare_amount":38.2}'
+390
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":247,"DOLocationID":119,"fare_amount":23.0}'
+391
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+392
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":174,"DOLocationID":242,"fare_amount":15.0}'
+393
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+394
+Message sent to Kafka: b'{"trip_distance":1.45,"PULocationID":119,"DOLocationID":168,"fare_amount":9.0}'
+395
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+396
+Message sent to Kafka: b'{"trip_distance":5.36,"PULocationID":168,"DOLocationID":235,"fare_amount":18.0}'
+397
+Message sent to Kafka: b'{"trip_distance":1.66,"PULocationID":247,"DOLocationID":159,"fare_amount":9.0}'
+398
+Message sent to Kafka: b'{"trip_distance":2.33,"PULocationID":185,"DOLocationID":136,"fare_amount":10.5}'
+399
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":167,"DOLocationID":242,"fare_amount":25.2}'
+400
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+401
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":136,"DOLocationID":185,"fare_amount":23.2}'
+402
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":235,"DOLocationID":94,"fare_amount":15.2}'
+403
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":3,"DOLocationID":242,"fare_amount":18.2}'
+404
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":254,"DOLocationID":242,"fare_amount":24.2}'
+405
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":20,"DOLocationID":20,"fare_amount":4.0}'
+406
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":169,"DOLocationID":242,"fare_amount":32.2}'
+407
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":119,"DOLocationID":174,"fare_amount":26.2}'
+408
+Message sent to Kafka: b'{"trip_distance":1.97,"PULocationID":168,"DOLocationID":69,"fare_amount":11.0}'
+409
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":182,"DOLocationID":182,"fare_amount":15.2}'
+410
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":51,"DOLocationID":136,"fare_amount":29.2}'
+411
+Message sent to Kafka: b'{"trip_distance":1.02,"PULocationID":254,"DOLocationID":254,"fare_amount":6.5}'
+412
+Message sent to Kafka: b'{"trip_distance":3.17,"PULocationID":32,"DOLocationID":250,"fare_amount":12.0}'
+413
+Message sent to Kafka: b'{"trip_distance":2.38,"PULocationID":250,"DOLocationID":184,"fare_amount":8.0}'
+414
+Message sent to Kafka: b'{"trip_distance":5.9,"PULocationID":167,"DOLocationID":174,"fare_amount":18.2}'
+415
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":20,"DOLocationID":47,"fare_amount":7.0}'
+416
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+417
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":169,"DOLocationID":159,"fare_amount":17.5}'
+418
+Message sent to Kafka: b'{"trip_distance":1.74,"PULocationID":248,"DOLocationID":242,"fare_amount":8.5}'
+419
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+420
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":168,"DOLocationID":168,"fare_amount":3.0}'
+421
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":47,"DOLocationID":18,"fare_amount":11.5}'
+422
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":167,"DOLocationID":213,"fare_amount":16.0}'
+423
+Message sent to Kafka: b'{"trip_distance":3.91,"PULocationID":250,"DOLocationID":32,"fare_amount":13.5}'
+424
+Message sent to Kafka: b'{"trip_distance":4.76,"PULocationID":69,"DOLocationID":242,"fare_amount":16.0}'
+425
+Message sent to Kafka: b'{"trip_distance":1.19,"PULocationID":18,"DOLocationID":174,"fare_amount":7.0}'
+426
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":200,"DOLocationID":119,"fare_amount":54.2}'
+427
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+428
+Message sent to Kafka: b'{"trip_distance":7.3,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+429
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+430
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":182,"DOLocationID":136,"fare_amount":20.2}'
+431
+Message sent to Kafka: b'{"trip_distance":0.49,"PULocationID":167,"DOLocationID":159,"fare_amount":4.0}'
+432
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":69,"DOLocationID":119,"fare_amount":27.2}'
+433
+Message sent to Kafka: b'{"trip_distance":5.38,"PULocationID":213,"DOLocationID":185,"fare_amount":23.0}'
+434
+Message sent to Kafka: b'{"trip_distance":6.06,"PULocationID":247,"DOLocationID":220,"fare_amount":21.5}'
+435
+Message sent to Kafka: b'{"trip_distance":1.07,"PULocationID":169,"DOLocationID":18,"fare_amount":6.5}'
+436
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":212,"DOLocationID":259,"fare_amount":26.2}'
+437
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":159,"DOLocationID":119,"fare_amount":15.2}'
+438
+Message sent to Kafka: b'{"trip_distance":5.7,"PULocationID":174,"DOLocationID":167,"fare_amount":26.2}'
+439
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":182,"DOLocationID":174,"fare_amount":17.2}'
+440
+Message sent to Kafka: b'{"trip_distance":1.99,"PULocationID":185,"DOLocationID":3,"fare_amount":9.0}'
+441
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":81,"DOLocationID":185,"fare_amount":23.2}'
+442
+Message sent to Kafka: b'{"trip_distance":0.52,"PULocationID":81,"DOLocationID":3,"fare_amount":5.0}'
+443
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":168,"DOLocationID":242,"fare_amount":35.2}'
+444
+Message sent to Kafka: b'{"trip_distance":5.04,"PULocationID":185,"DOLocationID":213,"fare_amount":17.0}'
+445
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":174,"DOLocationID":248,"fare_amount":15.0}'
+446
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":81,"DOLocationID":174,"fare_amount":10.5}'
+447
+Message sent to Kafka: b'{"trip_distance":8.97,"PULocationID":247,"DOLocationID":242,"fare_amount":32.0}'
+448
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":213,"DOLocationID":213,"fare_amount":15.2}'
+449
+Message sent to Kafka: b'{"trip_distance":4.91,"PULocationID":213,"DOLocationID":69,"fare_amount":22.0}'
+450
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":213,"DOLocationID":208,"fare_amount":15.2}'
+451
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":208,"DOLocationID":213,"fare_amount":17.2}'
+452
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":69,"DOLocationID":119,"fare_amount":6.0}'
+453
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":200,"DOLocationID":241,"fare_amount":11.5}'
+454
+Message sent to Kafka: b'{"trip_distance":1.92,"PULocationID":159,"DOLocationID":119,"fare_amount":8.5}'
+455
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":51,"DOLocationID":247,"fare_amount":38.2}'
+456
+Message sent to Kafka: b'{"trip_distance":7.3,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+457
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+458
+Message sent to Kafka: b'{"trip_distance":3.71,"PULocationID":168,"DOLocationID":248,"fare_amount":16.5}'
+459
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":18,"DOLocationID":47,"fare_amount":8.5}'
+460
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+461
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+462
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":126,"DOLocationID":242,"fare_amount":28.2}'
+463
+Message sent to Kafka: b'{"trip_distance":0.48,"PULocationID":247,"DOLocationID":159,"fare_amount":6.5}'
+464
+Message sent to Kafka: b'{"trip_distance":6.4,"PULocationID":69,"DOLocationID":240,"fare_amount":28.2}'
+465
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":254,"DOLocationID":242,"fare_amount":24.2}'
+466
+Message sent to Kafka: b'{"trip_distance":1.91,"PULocationID":213,"DOLocationID":250,"fare_amount":9.0}'
+467
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":168,"DOLocationID":169,"fare_amount":22.2}'
+468
+Message sent to Kafka: b'{"trip_distance":9.6,"PULocationID":168,"DOLocationID":94,"fare_amount":35.2}'
+469
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":168,"DOLocationID":208,"fare_amount":22.0}'
+470
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":259,"DOLocationID":32,"fare_amount":69.2}'
+471
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":3,"DOLocationID":185,"fare_amount":9.0}'
+472
+Message sent to Kafka: b'{"trip_distance":2.18,"PULocationID":250,"DOLocationID":213,"fare_amount":14.5}'
+473
+Message sent to Kafka: b'{"trip_distance":5.29,"PULocationID":220,"DOLocationID":168,"fare_amount":20.5}'
+474
+Message sent to Kafka: b'{"trip_distance":5.77,"PULocationID":174,"DOLocationID":69,"fare_amount":28.0}'
+475
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":174,"DOLocationID":241,"fare_amount":9.5}'
+476
+Message sent to Kafka: b'{"trip_distance":1.34,"PULocationID":159,"DOLocationID":147,"fare_amount":10.0}'
+477
+Message sent to Kafka: b'{"trip_distance":1.24,"PULocationID":47,"DOLocationID":60,"fare_amount":8.0}'
+478
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+479
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":168,"DOLocationID":159,"fare_amount":9.0}'
+480
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":69,"DOLocationID":167,"fare_amount":11.2}'
+481
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":247,"DOLocationID":247,"fare_amount":3.5}'
+482
+Message sent to Kafka: b'{"trip_distance":0.63,"PULocationID":169,"DOLocationID":169,"fare_amount":4.5}'
+483
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":235,"DOLocationID":47,"fare_amount":19.5}'
+484
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":168,"DOLocationID":174,"fare_amount":23.0}'
+485
+Message sent to Kafka: b'{"trip_distance":1.55,"PULocationID":168,"DOLocationID":126,"fare_amount":8.0}'
+486
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+487
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":159,"DOLocationID":168,"fare_amount":8.5}'
+488
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":147,"DOLocationID":126,"fare_amount":5.5}'
+489
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+490
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":182,"DOLocationID":20,"fare_amount":17.2}'
+491
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+492
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":51,"DOLocationID":212,"fare_amount":16.0}'
+493
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":235,"DOLocationID":242,"fare_amount":24.2}'
+494
+Message sent to Kafka: b'{"trip_distance":2.91,"PULocationID":159,"DOLocationID":169,"fare_amount":14.5}'
+495
+Message sent to Kafka: b'{"trip_distance":0.55,"PULocationID":168,"DOLocationID":168,"fare_amount":6.5}'
+496
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":174,"DOLocationID":200,"fare_amount":24.2}'
+497
+Message sent to Kafka: b'{"trip_distance":6.6,"PULocationID":254,"DOLocationID":168,"fare_amount":30.2}'
+498
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":212,"DOLocationID":69,"fare_amount":19.2}'
+499
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":241,"DOLocationID":259,"fare_amount":10.0}'
+500
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":78,"DOLocationID":47,"fare_amount":17.2}'
+501
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":213,"DOLocationID":182,"fare_amount":15.2}'
+502
+Message sent to Kafka: b'{"trip_distance":2.63,"PULocationID":69,"DOLocationID":94,"fare_amount":15.0}'
+503
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":213,"DOLocationID":51,"fare_amount":20.2}'
+504
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":60,"DOLocationID":20,"fare_amount":15.5}'
+505
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+506
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":32,"DOLocationID":31,"fare_amount":16.0}'
+507
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":51,"DOLocationID":213,"fare_amount":20.2}'
+508
+Message sent to Kafka: b'{"trip_distance":0.29,"PULocationID":69,"DOLocationID":247,"fare_amount":3.5}'
+509
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":69,"DOLocationID":18,"fare_amount":14.5}'
+510
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":159,"DOLocationID":247,"fare_amount":8.5}'
+511
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":168,"DOLocationID":213,"fare_amount":22.2}'
+512
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":213,"DOLocationID":212,"fare_amount":15.2}'
+513
+Message sent to Kafka: b'{"trip_distance":0.88,"PULocationID":20,"DOLocationID":20,"fare_amount":4.5}'
+514
+Message sent to Kafka: b'{"trip_distance":0.98,"PULocationID":159,"DOLocationID":168,"fare_amount":5.5}'
+515
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":147,"DOLocationID":47,"fare_amount":9.0}'
+516
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":242,"DOLocationID":119,"fare_amount":17.2}'
+517
+Message sent to Kafka: b'{"trip_distance":1.67,"PULocationID":213,"DOLocationID":182,"fare_amount":7.5}'
+518
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":241,"DOLocationID":235,"fare_amount":9.5}'
+519
+Message sent to Kafka: b'{"trip_distance":0.31,"PULocationID":119,"DOLocationID":119,"fare_amount":3.5}'
+520
+Message sent to Kafka: b'{"trip_distance":0.12,"PULocationID":169,"DOLocationID":169,"fare_amount":3.0}'
+521
+Message sent to Kafka: b'{"trip_distance":6.7,"PULocationID":60,"DOLocationID":3,"fare_amount":21.5}'
+522
+Message sent to Kafka: b'{"trip_distance":0.94,"PULocationID":47,"DOLocationID":247,"fare_amount":6.5}'
+523
+Message sent to Kafka: b'{"trip_distance":3.33,"PULocationID":247,"DOLocationID":136,"fare_amount":12.5}'
+524
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":119,"DOLocationID":169,"fare_amount":8.0}'
+525
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":47,"DOLocationID":159,"fare_amount":18.2}'
+526
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":182,"DOLocationID":126,"fare_amount":24.2}'
+527
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":69,"DOLocationID":247,"fare_amount":18.2}'
+528
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":208,"DOLocationID":242,"fare_amount":17.2}'
+529
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":235,"DOLocationID":78,"fare_amount":21.2}'
+530
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":78,"DOLocationID":3,"fare_amount":23.2}'
+531
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":147,"DOLocationID":259,"fare_amount":31.2}'
+532
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":213,"DOLocationID":174,"fare_amount":24.2}'
+533
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":200,"DOLocationID":242,"fare_amount":43.2}'
+534
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":254,"fare_amount":19.2}'
+535
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":185,"DOLocationID":174,"fare_amount":19.2}'
+536
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":51,"DOLocationID":51,"fare_amount":21.2}'
+537
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":235,"DOLocationID":159,"fare_amount":20.2}'
+538
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":51,"DOLocationID":242,"fare_amount":21.2}'
+539
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":182,"DOLocationID":159,"fare_amount":26.2}'
+540
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":81,"DOLocationID":51,"fare_amount":17.2}'
+541
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":167,"DOLocationID":213,"fare_amount":18.2}'
+542
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+543
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":247,"DOLocationID":184,"fare_amount":33.2}'
+544
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":78,"DOLocationID":213,"fare_amount":22.2}'
+545
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":213,"DOLocationID":47,"fare_amount":22.2}'
+546
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":18,"DOLocationID":78,"fare_amount":8.5}'
+547
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":51,"DOLocationID":51,"fare_amount":17.2}'
+548
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":81,"DOLocationID":254,"fare_amount":16.2}'
+549
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":51,"DOLocationID":51,"fare_amount":19.2}'
+550
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":242,"DOLocationID":254,"fare_amount":20.2}'
+551
+Message sent to Kafka: b'{"trip_distance":0.28,"PULocationID":159,"DOLocationID":167,"fare_amount":3.5}'
+552
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":185,"DOLocationID":182,"fare_amount":18.2}'
+553
+Message sent to Kafka: b'{"trip_distance":2.63,"PULocationID":32,"DOLocationID":18,"fare_amount":12.0}'
+554
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":136,"DOLocationID":235,"fare_amount":6.5}'
+555
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":254,"fare_amount":21.2}'
+556
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":31,"DOLocationID":18,"fare_amount":9.5}'
+557
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":47,"DOLocationID":182,"fare_amount":23.2}'
+558
+Message sent to Kafka: b'{"trip_distance":0.79,"PULocationID":168,"DOLocationID":247,"fare_amount":6.5}'
+559
+Message sent to Kafka: b'{"trip_distance":2.01,"PULocationID":212,"DOLocationID":60,"fare_amount":9.0}'
+560
+Message sent to Kafka: b'{"trip_distance":1.08,"PULocationID":159,"DOLocationID":168,"fare_amount":6.0}'
+561
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":51,"DOLocationID":182,"fare_amount":20.2}'
+562
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":235,"DOLocationID":213,"fare_amount":26.2}'
+563
+Message sent to Kafka: b'{"trip_distance":1.07,"PULocationID":47,"DOLocationID":47,"fare_amount":50.0}'
+564
+Message sent to Kafka: b'{"trip_distance":4.18,"PULocationID":208,"DOLocationID":32,"fare_amount":14.5}'
+565
+Message sent to Kafka: b'{"trip_distance":6.9,"PULocationID":247,"DOLocationID":247,"fare_amount":25.0}'
+566
+Message sent to Kafka: b'{"trip_distance":2.39,"PULocationID":235,"DOLocationID":47,"fare_amount":9.5}'
+567
+Message sent to Kafka: b'{"trip_distance":0.71,"PULocationID":81,"DOLocationID":254,"fare_amount":16.7}'
+568
+Message sent to Kafka: b'{"trip_distance":0.83,"PULocationID":159,"DOLocationID":168,"fare_amount":5.0}'
+569
+Message sent to Kafka: b'{"trip_distance":1.56,"PULocationID":254,"DOLocationID":254,"fare_amount":7.5}'
+570
+Message sent to Kafka: b'{"trip_distance":1.63,"PULocationID":18,"DOLocationID":20,"fare_amount":10.5}'
+571
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":212,"DOLocationID":213,"fare_amount":19.2}'
+572
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":167,"DOLocationID":60,"fare_amount":15.2}'
+573
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":18,"DOLocationID":200,"fare_amount":14.5}'
+574
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":81,"DOLocationID":47,"fare_amount":32.2}'
+575
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":136,"DOLocationID":220,"fare_amount":18.2}'
+576
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":254,"DOLocationID":81,"fare_amount":17.2}'
+577
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":69,"DOLocationID":182,"fare_amount":25.2}'
+578
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":60,"DOLocationID":167,"fare_amount":15.2}'
+579
+Message sent to Kafka: b'{"trip_distance":7.0,"PULocationID":241,"DOLocationID":159,"fare_amount":23.5}'
+580
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":213,"DOLocationID":94,"fare_amount":24.2}'
+581
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":159,"DOLocationID":167,"fare_amount":4.5}'
+582
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":174,"DOLocationID":213,"fare_amount":24.2}'
+583
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":213,"DOLocationID":169,"fare_amount":23.2}'
+584
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":242,"DOLocationID":167,"fare_amount":24.2}'
+585
+Message sent to Kafka: b'{"trip_distance":10.59,"PULocationID":126,"DOLocationID":78,"fare_amount":30.0}'
+586
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":69,"DOLocationID":60,"fare_amount":16.2}'
+587
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":60,"DOLocationID":18,"fare_amount":22.2}'
+588
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":126,"DOLocationID":213,"fare_amount":20.2}'
+589
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":126,"DOLocationID":169,"fare_amount":19.2}'
+590
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":167,"DOLocationID":159,"fare_amount":4.5}'
+591
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":47,"DOLocationID":213,"fare_amount":23.2}'
+592
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":18,"DOLocationID":32,"fare_amount":18.2}'
+593
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":200,"DOLocationID":174,"fare_amount":22.2}'
+594
+Message sent to Kafka: b'{"trip_distance":2.52,"PULocationID":182,"DOLocationID":185,"fare_amount":10.5}'
+595
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":174,"DOLocationID":254,"fare_amount":17.2}'
+596
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":51,"DOLocationID":241,"fare_amount":29.2}'
+597
+Message sent to Kafka: b'{"trip_distance":4.74,"PULocationID":247,"DOLocationID":213,"fare_amount":16.0}'
+598
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":136,"DOLocationID":69,"fare_amount":23.2}'
+599
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":247,"DOLocationID":51,"fare_amount":23.2}'
+600
+Message sent to Kafka: b'{"trip_distance":2.22,"PULocationID":200,"DOLocationID":200,"fare_amount":9.0}'
+601
+Message sent to Kafka: b'{"trip_distance":0.77,"PULocationID":247,"DOLocationID":247,"fare_amount":5.0}'
+602
+Message sent to Kafka: b'{"trip_distance":0.88,"PULocationID":247,"DOLocationID":69,"fare_amount":6.0}'
+603
+Message sent to Kafka: b'{"trip_distance":0.26,"PULocationID":119,"DOLocationID":119,"fare_amount":4.0}'
+604
+Message sent to Kafka: b'{"trip_distance":2.97,"PULocationID":136,"DOLocationID":185,"fare_amount":12.0}'
+605
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":159,"DOLocationID":168,"fare_amount":6.0}'
+606
+Message sent to Kafka: b'{"trip_distance":10.1,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+607
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":119,"DOLocationID":254,"fare_amount":30.2}'
+608
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":254,"DOLocationID":169,"fare_amount":18.2}'
+609
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+610
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":167,"DOLocationID":159,"fare_amount":4.0}'
+611
+Message sent to Kafka: b'{"trip_distance":7.89,"PULocationID":94,"DOLocationID":200,"fare_amount":25.0}'
+612
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":169,"DOLocationID":159,"fare_amount":19.2}'
+613
+Message sent to Kafka: b'{"trip_distance":0.96,"PULocationID":147,"DOLocationID":168,"fare_amount":8.0}'
+614
+Message sent to Kafka: b'{"trip_distance":4.73,"PULocationID":51,"DOLocationID":212,"fare_amount":16.0}'
+615
+Message sent to Kafka: b'{"trip_distance":2.26,"PULocationID":69,"DOLocationID":78,"fare_amount":13.0}'
+616
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":174,"DOLocationID":69,"fare_amount":20.2}'
+617
+Message sent to Kafka: b'{"trip_distance":0.67,"PULocationID":220,"DOLocationID":220,"fare_amount":5.0}'
+618
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":47,"DOLocationID":185,"fare_amount":20.2}'
+619
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":78,"DOLocationID":242,"fare_amount":32.2}'
+620
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":242,"DOLocationID":248,"fare_amount":11.0}'
+621
+Message sent to Kafka: b'{"trip_distance":1.54,"PULocationID":247,"DOLocationID":168,"fare_amount":7.0}'
+622
+Message sent to Kafka: b'{"trip_distance":8.3,"PULocationID":242,"DOLocationID":235,"fare_amount":32.5}'
+623
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":182,"DOLocationID":242,"fare_amount":15.2}'
+624
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":242,"DOLocationID":182,"fare_amount":15.2}'
+625
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":94,"DOLocationID":169,"fare_amount":4.5}'
+626
+Message sent to Kafka: b'{"trip_distance":2.15,"PULocationID":213,"DOLocationID":250,"fare_amount":10.0}'
+627
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":247,"DOLocationID":168,"fare_amount":7.5}'
+628
+Message sent to Kafka: b'{"trip_distance":1.77,"PULocationID":248,"DOLocationID":242,"fare_amount":8.5}'
+629
+Message sent to Kafka: b'{"trip_distance":2.14,"PULocationID":250,"DOLocationID":213,"fare_amount":11.5}'
+630
+Message sent to Kafka: b'{"trip_distance":7.9,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+631
+Message sent to Kafka: b'{"trip_distance":1.69,"PULocationID":168,"DOLocationID":167,"fare_amount":12.5}'
+632
+Message sent to Kafka: b'{"trip_distance":1.35,"PULocationID":69,"DOLocationID":235,"fare_amount":11.0}'
+633
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":159,"DOLocationID":185,"fare_amount":17.0}'
+634
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":20,"DOLocationID":51,"fare_amount":20.2}'
+635
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":94,"DOLocationID":247,"fare_amount":11.5}'
+636
+Message sent to Kafka: b'{"trip_distance":0.66,"PULocationID":159,"DOLocationID":168,"fare_amount":4.5}'
+637
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":168,"DOLocationID":147,"fare_amount":9.5}'
+638
+Message sent to Kafka: b'{"trip_distance":2.77,"PULocationID":136,"DOLocationID":78,"fare_amount":11.5}'
+639
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":247,"DOLocationID":18,"fare_amount":17.0}'
+640
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":168,"DOLocationID":168,"fare_amount":15.0}'
+641
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":119,"DOLocationID":168,"fare_amount":25.2}'
+642
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+643
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":169,"DOLocationID":59,"fare_amount":13.0}'
+644
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+645
+Message sent to Kafka: b'{"trip_distance":0.14,"PULocationID":159,"DOLocationID":69,"fare_amount":3.0}'
+646
+Message sent to Kafka: b'{"trip_distance":2.98,"PULocationID":247,"DOLocationID":235,"fare_amount":11.5}'
+647
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":159,"DOLocationID":159,"fare_amount":5.5}'
+648
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":242,"DOLocationID":185,"fare_amount":8.5}'
+649
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":147,"DOLocationID":47,"fare_amount":6.5}'
+650
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+651
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":169,"DOLocationID":259,"fare_amount":29.2}'
+652
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":47,"DOLocationID":174,"fare_amount":22.2}'
+653
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":235,"DOLocationID":169,"fare_amount":17.2}'
+654
+Message sent to Kafka: b'{"trip_distance":6.1,"PULocationID":51,"DOLocationID":250,"fare_amount":19.5}'
+655
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":182,"DOLocationID":242,"fare_amount":15.2}'
+656
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":81,"DOLocationID":183,"fare_amount":19.2}'
+657
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":60,"DOLocationID":174,"fare_amount":22.2}'
+658
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":235,"DOLocationID":169,"fare_amount":17.2}'
+659
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":136,"DOLocationID":185,"fare_amount":23.2}'
+660
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":242,"DOLocationID":213,"fare_amount":19.2}'
+661
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":242,"DOLocationID":213,"fare_amount":21.2}'
+662
+Message sent to Kafka: b'{"trip_distance":4.12,"PULocationID":174,"DOLocationID":185,"fare_amount":15.0}'
+663
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":159,"DOLocationID":168,"fare_amount":6.0}'
+664
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":126,"DOLocationID":174,"fare_amount":22.2}'
+665
+Message sent to Kafka: b'{"trip_distance":6.6,"PULocationID":213,"DOLocationID":81,"fare_amount":28.2}'
+666
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":169,"DOLocationID":235,"fare_amount":16.2}'
+667
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":250,"DOLocationID":51,"fare_amount":21.0}'
+668
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+669
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":119,"DOLocationID":174,"fare_amount":26.2}'
+670
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":247,"DOLocationID":168,"fare_amount":11.0}'
+671
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":94,"DOLocationID":169,"fare_amount":9.5}'
+672
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":147,"DOLocationID":259,"fare_amount":31.2}'
+673
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":119,"DOLocationID":20,"fare_amount":15.2}'
+674
+Message sent to Kafka: b'{"trip_distance":0.52,"PULocationID":69,"DOLocationID":69,"fare_amount":5.0}'
+675
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":81,"DOLocationID":242,"fare_amount":18.2}'
+676
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":147,"DOLocationID":69,"fare_amount":17.2}'
+677
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":159,"DOLocationID":69,"fare_amount":10.5}'
+678
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":20,"DOLocationID":119,"fare_amount":15.2}'
+679
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":247,"DOLocationID":159,"fare_amount":15.2}'
+680
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":159,"DOLocationID":182,"fare_amount":20.2}'
+681
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":200,"DOLocationID":254,"fare_amount":23.2}'
+682
+Message sent to Kafka: b'{"trip_distance":5.5,"PULocationID":254,"DOLocationID":167,"fare_amount":26.2}'
+683
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":20,"DOLocationID":81,"fare_amount":22.2}'
+684
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":69,"DOLocationID":169,"fare_amount":11.5}'
+685
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":119,"DOLocationID":208,"fare_amount":22.2}'
+686
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+687
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":18,"DOLocationID":147,"fare_amount":15.0}'
+688
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":119,"DOLocationID":247,"fare_amount":5.0}'
+689
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":254,"fare_amount":21.2}'
+690
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":3,"DOLocationID":147,"fare_amount":26.2}'
+691
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":242,"DOLocationID":182,"fare_amount":15.2}'
+692
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":220,"DOLocationID":167,"fare_amount":19.5}'
+693
+Message sent to Kafka: b'{"trip_distance":4.32,"PULocationID":168,"DOLocationID":78,"fare_amount":17.0}'
+694
+Message sent to Kafka: b'{"trip_distance":1.22,"PULocationID":247,"DOLocationID":159,"fare_amount":8.0}'
+695
+Message sent to Kafka: b'{"trip_distance":0.89,"PULocationID":247,"DOLocationID":69,"fare_amount":6.5}'
+696
+Message sent to Kafka: b'{"trip_distance":4.73,"PULocationID":51,"DOLocationID":212,"fare_amount":15.5}'
+697
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+698
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":168,"DOLocationID":169,"fare_amount":17.5}'
+699
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+700
+Message sent to Kafka: b'{"trip_distance":1.51,"PULocationID":247,"DOLocationID":247,"fare_amount":10.0}'
+701
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+702
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":167,"DOLocationID":3,"fare_amount":28.2}'
+703
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":200,"DOLocationID":241,"fare_amount":17.2}'
+704
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":159,"DOLocationID":159,"fare_amount":4.0}'
+705
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":69,"DOLocationID":18,"fare_amount":15.5}'
+706
+Message sent to Kafka: b'{"trip_distance":0.49,"PULocationID":20,"DOLocationID":60,"fare_amount":4.0}'
+707
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+708
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":94,"DOLocationID":242,"fare_amount":25.2}'
+709
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":147,"DOLocationID":159,"fare_amount":15.2}'
+710
+Message sent to Kafka: b'{"trip_distance":1.94,"PULocationID":182,"DOLocationID":242,"fare_amount":10.0}'
+711
+Message sent to Kafka: b'{"trip_distance":4.55,"PULocationID":247,"DOLocationID":126,"fare_amount":16.0}'
+712
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":213,"DOLocationID":119,"fare_amount":24.2}'
+713
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":247,"DOLocationID":69,"fare_amount":16.2}'
+714
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":213,"DOLocationID":241,"fare_amount":22.2}'
+715
+Message sent to Kafka: b'{"trip_distance":0.87,"PULocationID":69,"DOLocationID":159,"fare_amount":6.5}'
+716
+Message sent to Kafka: b'{"trip_distance":2.23,"PULocationID":220,"DOLocationID":200,"fare_amount":9.5}'
+717
+Message sent to Kafka: b'{"trip_distance":0.87,"PULocationID":247,"DOLocationID":168,"fare_amount":5.5}'
+718
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":169,"DOLocationID":169,"fare_amount":70.0}'
+719
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":200,"DOLocationID":220,"fare_amount":5.0}'
+720
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+721
+Message sent to Kafka: b'{"trip_distance":3.74,"PULocationID":235,"DOLocationID":60,"fare_amount":17.5}'
+722
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+723
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":235,"DOLocationID":174,"fare_amount":24.2}'
+724
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+725
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":18,"DOLocationID":174,"fare_amount":16.2}'
+726
+Message sent to Kafka: b'{"trip_distance":2.76,"PULocationID":212,"DOLocationID":69,"fare_amount":15.5}'
+727
+Message sent to Kafka: b'{"trip_distance":9.5,"PULocationID":254,"DOLocationID":159,"fare_amount":34.5}'
+728
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+729
+Message sent to Kafka: b'{"trip_distance":1.64,"PULocationID":119,"DOLocationID":168,"fare_amount":8.0}'
+730
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":119,"DOLocationID":159,"fare_amount":15.2}'
+731
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":159,"DOLocationID":126,"fare_amount":15.2}'
+732
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":119,"DOLocationID":220,"fare_amount":18.2}'
+733
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+734
+Message sent to Kafka: b'{"trip_distance":1.78,"PULocationID":94,"DOLocationID":247,"fare_amount":9.0}'
+735
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":169,"DOLocationID":213,"fare_amount":18.2}'
+736
+Message sent to Kafka: b'{"trip_distance":0.63,"PULocationID":159,"DOLocationID":159,"fare_amount":6.0}'
+737
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":159,"DOLocationID":167,"fare_amount":6.0}'
+738
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":185,"DOLocationID":182,"fare_amount":15.2}'
+739
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":167,"DOLocationID":247,"fare_amount":8.5}'
+740
+Message sent to Kafka: b'{"trip_distance":8.91,"PULocationID":235,"DOLocationID":51,"fare_amount":31.0}'
+741
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":51,"DOLocationID":259,"fare_amount":15.2}'
+742
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":78,"DOLocationID":159,"fare_amount":15.2}'
+743
+Message sent to Kafka: b'{"trip_distance":7.9,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+744
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":254,"fare_amount":21.2}'
+745
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":119,"DOLocationID":240,"fare_amount":26.2}'
+746
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":174,"DOLocationID":259,"fare_amount":10.0}'
+747
+Message sent to Kafka: b'{"trip_distance":1.12,"PULocationID":159,"DOLocationID":167,"fare_amount":6.0}'
+748
+Message sent to Kafka: b'{"trip_distance":10.4,"PULocationID":51,"DOLocationID":247,"fare_amount":38.2}'
+749
+Message sent to Kafka: b'{"trip_distance":1.36,"PULocationID":159,"DOLocationID":168,"fare_amount":8.0}'
+750
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+751
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":159,"DOLocationID":168,"fare_amount":6.5}'
+752
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":241,"DOLocationID":69,"fare_amount":20.2}'
+753
+Message sent to Kafka: b'{"trip_distance":1.39,"PULocationID":168,"DOLocationID":69,"fare_amount":10.0}'
+754
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":235,"DOLocationID":126,"fare_amount":24.2}'
+755
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":242,"DOLocationID":183,"fare_amount":17.2}'
+756
+Message sent to Kafka: b'{"trip_distance":10.64,"PULocationID":259,"DOLocationID":168,"fare_amount":81.0}'
+757
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":51,"DOLocationID":51,"fare_amount":59.2}'
+758
+Message sent to Kafka: b'{"trip_distance":1.81,"PULocationID":47,"DOLocationID":126,"fare_amount":13.5}'
+759
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":185,"DOLocationID":185,"fare_amount":15.2}'
+760
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":208,"DOLocationID":3,"fare_amount":21.2}'
+761
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":47,"DOLocationID":235,"fare_amount":30.2}'
+762
+Message sent to Kafka: b'{"trip_distance":5.85,"PULocationID":51,"DOLocationID":213,"fare_amount":19.5}'
+763
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":119,"DOLocationID":213,"fare_amount":18.2}'
+764
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":78,"DOLocationID":126,"fare_amount":50.2}'
+765
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":167,"DOLocationID":174,"fare_amount":24.2}'
+766
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":3,"DOLocationID":242,"fare_amount":19.2}'
+767
+Message sent to Kafka: b'{"trip_distance":4.97,"PULocationID":167,"DOLocationID":167,"fare_amount":22.0}'
+768
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":3,"DOLocationID":242,"fare_amount":20.2}'
+769
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":185,"DOLocationID":18,"fare_amount":22.2}'
+770
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":242,"DOLocationID":250,"fare_amount":17.2}'
+771
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":182,"DOLocationID":60,"fare_amount":19.2}'
+772
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":182,"DOLocationID":213,"fare_amount":18.2}'
+773
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":185,"DOLocationID":81,"fare_amount":17.2}'
+774
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":242,"DOLocationID":213,"fare_amount":20.2}'
+775
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":126,"DOLocationID":81,"fare_amount":32.5}'
+776
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":159,"DOLocationID":168,"fare_amount":9.5}'
+777
+Message sent to Kafka: b'{"trip_distance":1.82,"PULocationID":242,"DOLocationID":32,"fare_amount":13.0}'
+778
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":235,"DOLocationID":69,"fare_amount":15.2}'
+779
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":247,"DOLocationID":247,"fare_amount":5.0}'
+780
+Message sent to Kafka: b'{"trip_distance":0.65,"PULocationID":94,"DOLocationID":31,"fare_amount":4.5}'
+781
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":168,"DOLocationID":168,"fare_amount":10.0}'
+782
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":69,"DOLocationID":241,"fare_amount":17.2}'
+783
+Message sent to Kafka: b'{"trip_distance":8.69,"PULocationID":247,"DOLocationID":220,"fare_amount":45.0}'
+784
+Message sent to Kafka: b'{"trip_distance":2.93,"PULocationID":242,"DOLocationID":32,"fare_amount":20.0}'
+785
+Message sent to Kafka: b'{"trip_distance":2.45,"PULocationID":168,"DOLocationID":119,"fare_amount":13.0}'
+786
+Message sent to Kafka: b'{"trip_distance":0.67,"PULocationID":174,"DOLocationID":241,"fare_amount":5.0}'
+787
+Message sent to Kafka: b'{"trip_distance":1.63,"PULocationID":247,"DOLocationID":168,"fare_amount":8.5}'
+788
+Message sent to Kafka: b'{"trip_distance":2.93,"PULocationID":78,"DOLocationID":159,"fare_amount":13.5}'
+789
+Message sent to Kafka: b'{"trip_distance":6.76,"PULocationID":159,"DOLocationID":213,"fare_amount":22.0}'
+790
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":254,"DOLocationID":78,"fare_amount":28.2}'
+791
+Message sent to Kafka: b'{"trip_distance":1.93,"PULocationID":126,"DOLocationID":213,"fare_amount":8.5}'
+792
+Message sent to Kafka: b'{"trip_distance":0.65,"PULocationID":247,"DOLocationID":167,"fare_amount":4.5}'
+793
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":247,"DOLocationID":169,"fare_amount":7.5}'
+794
+Message sent to Kafka: b'{"trip_distance":2.58,"PULocationID":213,"DOLocationID":167,"fare_amount":10.5}'
+795
+Message sent to Kafka: b'{"trip_distance":3.52,"PULocationID":167,"DOLocationID":32,"fare_amount":12.5}'
+796
+Message sent to Kafka: b'{"trip_distance":2.14,"PULocationID":126,"DOLocationID":126,"fare_amount":9.0}'
+797
+Message sent to Kafka: b'{"trip_distance":1.32,"PULocationID":169,"DOLocationID":20,"fare_amount":7.0}'
+798
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":119,"DOLocationID":242,"fare_amount":37.2}'
+799
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":51,"DOLocationID":182,"fare_amount":28.2}'
+800
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":51,"DOLocationID":51,"fare_amount":15.2}'
+801
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":169,"DOLocationID":32,"fare_amount":20.2}'
+802
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":213,"DOLocationID":3,"fare_amount":27.2}'
+803
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":3,"DOLocationID":242,"fare_amount":19.2}'
+804
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":250,"DOLocationID":213,"fare_amount":18.2}'
+805
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":60,"DOLocationID":159,"fare_amount":25.2}'
+806
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":51,"DOLocationID":208,"fare_amount":20.2}'
+807
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":51,"DOLocationID":51,"fare_amount":21.2}'
+808
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":254,"DOLocationID":254,"fare_amount":16.2}'
+809
+Message sent to Kafka: b'{"trip_distance":5.05,"PULocationID":147,"DOLocationID":20,"fare_amount":16.5}'
+810
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":254,"DOLocationID":248,"fare_amount":27.2}'
+811
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":242,"DOLocationID":147,"fare_amount":19.2}'
+812
+Message sent to Kafka: b'{"trip_distance":0.49,"PULocationID":60,"DOLocationID":60,"fare_amount":4.0}'
+813
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":51,"DOLocationID":213,"fare_amount":28.2}'
+814
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":213,"DOLocationID":212,"fare_amount":16.2}'
+815
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":254,"DOLocationID":81,"fare_amount":17.2}'
+816
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":241,"DOLocationID":220,"fare_amount":15.2}'
+817
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":200,"DOLocationID":220,"fare_amount":17.2}'
+818
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":220,"DOLocationID":220,"fare_amount":15.2}'
+819
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":254,"DOLocationID":69,"fare_amount":27.2}'
+820
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":241,"DOLocationID":183,"fare_amount":29.2}'
+821
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":254,"DOLocationID":20,"fare_amount":23.2}'
+822
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+823
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":208,"DOLocationID":159,"fare_amount":24.2}'
+824
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":94,"DOLocationID":159,"fare_amount":23.2}'
+825
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":32,"DOLocationID":69,"fare_amount":31.2}'
+826
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":78,"DOLocationID":235,"fare_amount":17.2}'
+827
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":51,"DOLocationID":235,"fare_amount":34.2}'
+828
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":254,"DOLocationID":81,"fare_amount":17.2}'
+829
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":254,"DOLocationID":78,"fare_amount":21.2}'
+830
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":78,"DOLocationID":78,"fare_amount":15.2}'
+831
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":169,"DOLocationID":235,"fare_amount":16.2}'
+832
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":242,"DOLocationID":119,"fare_amount":20.2}'
+833
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":159,"DOLocationID":3,"fare_amount":29.2}'
+834
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":174,"DOLocationID":20,"fare_amount":20.2}'
+835
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":248,"DOLocationID":213,"fare_amount":18.2}'
+836
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":220,"DOLocationID":69,"fare_amount":25.2}'
+837
+Message sent to Kafka: b'{"trip_distance":6.8,"PULocationID":47,"DOLocationID":51,"fare_amount":29.2}'
+838
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":242,"DOLocationID":208,"fare_amount":16.2}'
+839
+Message sent to Kafka: b'{"trip_distance":6.1,"PULocationID":51,"DOLocationID":241,"fare_amount":29.2}'
+840
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":69,"DOLocationID":78,"fare_amount":20.2}'
+841
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":119,"DOLocationID":242,"fare_amount":22.2}'
+842
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":51,"DOLocationID":78,"fare_amount":24.2}'
+843
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":20,"DOLocationID":51,"fare_amount":18.2}'
+844
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":51,"DOLocationID":18,"fare_amount":22.2}'
+845
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":235,"DOLocationID":78,"fare_amount":18.2}'
+846
+Message sent to Kafka: b'{"trip_distance":7.9,"PULocationID":247,"DOLocationID":51,"fare_amount":32.2}'
+847
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":247,"DOLocationID":185,"fare_amount":26.2}'
+848
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":169,"DOLocationID":32,"fare_amount":20.2}'
+849
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":119,"DOLocationID":212,"fare_amount":26.2}'
+850
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":169,"DOLocationID":81,"fare_amount":35.2}'
+851
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":182,"DOLocationID":51,"fare_amount":21.2}'
+852
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":250,"DOLocationID":78,"fare_amount":20.2}'
+853
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":183,"DOLocationID":185,"fare_amount":20.2}'
+854
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":185,"DOLocationID":182,"fare_amount":18.2}'
+855
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":32,"DOLocationID":81,"fare_amount":18.2}'
+856
+Message sent to Kafka: b'{"trip_distance":0.58,"PULocationID":220,"DOLocationID":220,"fare_amount":5.0}'
+857
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":69,"DOLocationID":169,"fare_amount":11.0}'
+858
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":78,"DOLocationID":51,"fare_amount":32.2}'
+859
+Message sent to Kafka: b'{"trip_distance":3.35,"PULocationID":213,"DOLocationID":208,"fare_amount":12.5}'
+860
+Message sent to Kafka: b'{"trip_distance":1.02,"PULocationID":94,"DOLocationID":18,"fare_amount":7.5}'
+861
+Message sent to Kafka: b'{"trip_distance":0.81,"PULocationID":168,"DOLocationID":159,"fare_amount":5.5}'
+862
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":167,"DOLocationID":235,"fare_amount":19.2}'
+863
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":213,"DOLocationID":185,"fare_amount":22.2}'
+864
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":51,"DOLocationID":242,"fare_amount":21.2}'
+865
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+866
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":235,"DOLocationID":147,"fare_amount":20.2}'
+867
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":51,"DOLocationID":78,"fare_amount":26.2}'
+868
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":235,"DOLocationID":169,"fare_amount":9.0}'
+869
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+870
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":32,"DOLocationID":169,"fare_amount":20.2}'
+871
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":235,"DOLocationID":51,"fare_amount":31.2}'
+872
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":47,"DOLocationID":213,"fare_amount":23.2}'
+873
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":242,"DOLocationID":182,"fare_amount":16.2}'
+874
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":213,"DOLocationID":213,"fare_amount":4.5}'
+875
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":47,"DOLocationID":47,"fare_amount":20.2}'
+876
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":247,"DOLocationID":168,"fare_amount":5.5}'
+877
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":235,"DOLocationID":174,"fare_amount":24.2}'
+878
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":147,"DOLocationID":182,"fare_amount":22.2}'
+879
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":168,"DOLocationID":69,"fare_amount":10.5}'
+880
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":47,"DOLocationID":126,"fare_amount":12.0}'
+881
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":247,"DOLocationID":69,"fare_amount":6.5}'
+882
+Message sent to Kafka: b'{"trip_distance":1.01,"PULocationID":247,"DOLocationID":119,"fare_amount":5.5}'
+883
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":159,"DOLocationID":47,"fare_amount":12.5}'
+884
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":159,"DOLocationID":247,"fare_amount":12.5}'
+885
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":168,"DOLocationID":235,"fare_amount":12.5}'
+886
+Message sent to Kafka: b'{"trip_distance":6.1,"PULocationID":241,"DOLocationID":168,"fare_amount":19.0}'
+887
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":168,"DOLocationID":185,"fare_amount":22.5}'
+888
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":241,"DOLocationID":169,"fare_amount":7.5}'
+889
+Message sent to Kafka: b'{"trip_distance":3.46,"PULocationID":20,"DOLocationID":254,"fare_amount":11.5}'
+890
+Message sent to Kafka: b'{"trip_distance":8.73,"PULocationID":212,"DOLocationID":247,"fare_amount":25.5}'
+891
+Message sent to Kafka: b'{"trip_distance":15.14,"PULocationID":47,"DOLocationID":47,"fare_amount":44.2}'
+892
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":182,"DOLocationID":174,"fare_amount":23.2}'
+893
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":32,"DOLocationID":254,"fare_amount":17.2}'
+894
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":3,"DOLocationID":32,"fare_amount":16.2}'
+895
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":20,"DOLocationID":47,"fare_amount":18.2}'
+896
+Message sent to Kafka: b'{"trip_distance":5.7,"PULocationID":235,"DOLocationID":259,"fare_amount":26.2}'
+897
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":254,"DOLocationID":81,"fare_amount":17.2}'
+898
+Message sent to Kafka: b'{"trip_distance":0.47,"PULocationID":247,"DOLocationID":247,"fare_amount":3.5}'
+899
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":167,"DOLocationID":31,"fare_amount":23.2}'
+900
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":167,"DOLocationID":235,"fare_amount":19.2}'
+901
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":94,"DOLocationID":69,"fare_amount":18.2}'
+902
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":69,"DOLocationID":69,"fare_amount":17.2}'
+903
+Message sent to Kafka: b'{"trip_distance":0.56,"PULocationID":159,"DOLocationID":167,"fare_amount":6.0}'
+904
+Message sent to Kafka: b'{"trip_distance":6.5,"PULocationID":119,"DOLocationID":254,"fare_amount":28.2}'
+905
+Message sent to Kafka: b'{"trip_distance":1.28,"PULocationID":119,"DOLocationID":247,"fare_amount":7.0}'
+906
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":182,"DOLocationID":60,"fare_amount":18.2}'
+907
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":259,"DOLocationID":32,"fare_amount":23.2}'
+908
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":168,"DOLocationID":47,"fare_amount":18.2}'
+909
+Message sent to Kafka: b'{"trip_distance":8.8,"PULocationID":168,"DOLocationID":184,"fare_amount":33.2}'
+910
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":47,"DOLocationID":213,"fare_amount":23.2}'
+911
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":254,"DOLocationID":254,"fare_amount":15.2}'
+912
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":81,"DOLocationID":250,"fare_amount":25.2}'
+913
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":235,"DOLocationID":18,"fare_amount":17.2}'
+914
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":47,"DOLocationID":119,"fare_amount":19.2}'
+915
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":247,"DOLocationID":208,"fare_amount":31.2}'
+916
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":220,"DOLocationID":78,"fare_amount":30.2}'
+917
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":241,"DOLocationID":51,"fare_amount":36.2}'
+918
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":250,"DOLocationID":51,"fare_amount":20.2}'
+919
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":208,"DOLocationID":248,"fare_amount":21.2}'
+920
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":220,"DOLocationID":254,"fare_amount":19.2}'
+921
+Message sent to Kafka: b'{"trip_distance":1.65,"PULocationID":220,"DOLocationID":174,"fare_amount":8.0}'
+922
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":212,"DOLocationID":167,"fare_amount":18.2}'
+923
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":119,"DOLocationID":60,"fare_amount":25.2}'
+924
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":47,"DOLocationID":126,"fare_amount":18.2}'
+925
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":247,"DOLocationID":241,"fare_amount":19.2}'
+926
+Message sent to Kafka: b'{"trip_distance":4.38,"PULocationID":60,"DOLocationID":174,"fare_amount":14.5}'
+927
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":47,"DOLocationID":213,"fare_amount":21.2}'
+928
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":94,"DOLocationID":213,"fare_amount":23.2}'
+929
+Message sent to Kafka: b'{"trip_distance":1.47,"PULocationID":235,"DOLocationID":235,"fare_amount":9.5}'
+930
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":182,"DOLocationID":119,"fare_amount":24.2}'
+931
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":167,"DOLocationID":208,"fare_amount":24.2}'
+932
+Message sent to Kafka: b'{"trip_distance":1.17,"PULocationID":247,"DOLocationID":159,"fare_amount":6.5}'
+933
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":254,"DOLocationID":94,"fare_amount":21.2}'
+934
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":169,"DOLocationID":126,"fare_amount":20.2}'
+935
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":174,"DOLocationID":81,"fare_amount":20.2}'
+936
+Message sent to Kafka: b'{"trip_distance":6.5,"PULocationID":51,"DOLocationID":126,"fare_amount":28.2}'
+937
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":248,"DOLocationID":47,"fare_amount":20.2}'
+938
+Message sent to Kafka: b'{"trip_distance":13.06,"PULocationID":241,"DOLocationID":241,"fare_amount":44.0}'
+939
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":174,"DOLocationID":51,"fare_amount":21.2}'
+940
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":69,"DOLocationID":147,"fare_amount":16.2}'
+941
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":254,"DOLocationID":31,"fare_amount":19.2}'
+942
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":248,"DOLocationID":169,"fare_amount":20.2}'
+943
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":168,"DOLocationID":208,"fare_amount":31.2}'
+944
+Message sent to Kafka: b'{"trip_distance":2.07,"PULocationID":235,"DOLocationID":69,"fare_amount":11.0}'
+945
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":235,"DOLocationID":94,"fare_amount":15.2}'
+946
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":167,"DOLocationID":213,"fare_amount":18.2}'
+947
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":47,"DOLocationID":81,"fare_amount":31.2}'
+948
+Message sent to Kafka: b'{"trip_distance":5.9,"PULocationID":213,"DOLocationID":254,"fare_amount":27.2}'
+949
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":241,"DOLocationID":94,"fare_amount":17.2}'
+950
+Message sent to Kafka: b'{"trip_distance":6.4,"PULocationID":213,"DOLocationID":18,"fare_amount":26.2}'
+951
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":242,"DOLocationID":78,"fare_amount":18.2}'
+952
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":174,"DOLocationID":212,"fare_amount":25.2}'
+953
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":167,"DOLocationID":159,"fare_amount":4.0}'
+954
+Message sent to Kafka: b'{"trip_distance":5.9,"PULocationID":69,"DOLocationID":208,"fare_amount":22.2}'
+955
+Message sent to Kafka: b'{"trip_distance":3.55,"PULocationID":136,"DOLocationID":119,"fare_amount":16.5}'
+956
+Message sent to Kafka: b'{"trip_distance":12.7,"PULocationID":247,"DOLocationID":254,"fare_amount":38.0}'
+957
+Message sent to Kafka: b'{"trip_distance":7.8,"PULocationID":168,"DOLocationID":32,"fare_amount":24.0}'
+958
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":213,"DOLocationID":32,"fare_amount":14.0}'
+959
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":126,"DOLocationID":212,"fare_amount":8.5}'
+960
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":47,"DOLocationID":78,"fare_amount":7.0}'
+961
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":247,"DOLocationID":78,"fare_amount":17.5}'
+962
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":168,"DOLocationID":247,"fare_amount":7.0}'
+963
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":168,"DOLocationID":168,"fare_amount":4.5}'
+964
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":248,"DOLocationID":47,"fare_amount":18.2}'
+965
+Message sent to Kafka: b'{"trip_distance":4.14,"PULocationID":169,"DOLocationID":213,"fare_amount":14.5}'
+966
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":167,"DOLocationID":159,"fare_amount":7.0}'
+967
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+968
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":159,"DOLocationID":168,"fare_amount":5.5}'
+969
+Message sent to Kafka: b'{"trip_distance":7.19,"PULocationID":168,"DOLocationID":18,"fare_amount":23.5}'
+970
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":250,"DOLocationID":174,"fare_amount":24.2}'
+971
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":185,"DOLocationID":242,"fare_amount":15.2}'
+972
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":51,"DOLocationID":174,"fare_amount":20.2}'
+973
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":242,"DOLocationID":212,"fare_amount":21.2}'
+974
+Message sent to Kafka: b'{"trip_distance":3.62,"PULocationID":20,"DOLocationID":81,"fare_amount":14.0}'
+975
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":60,"DOLocationID":242,"fare_amount":22.2}'
+976
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":169,"DOLocationID":69,"fare_amount":11.0}'
+977
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":69,"DOLocationID":169,"fare_amount":20.2}'
+978
+Message sent to Kafka: b'{"trip_distance":1.59,"PULocationID":208,"DOLocationID":213,"fare_amount":8.0}'
+979
+Message sent to Kafka: b'{"trip_distance":1.31,"PULocationID":69,"DOLocationID":168,"fare_amount":8.0}'
+980
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":51,"DOLocationID":174,"fare_amount":17.2}'
+981
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":182,"DOLocationID":213,"fare_amount":15.2}'
+982
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":126,"DOLocationID":241,"fare_amount":24.2}'
+983
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":60,"DOLocationID":59,"fare_amount":7.5}'
+984
+Message sent to Kafka: b'{"trip_distance":0.13,"PULocationID":159,"DOLocationID":159,"fare_amount":200.0}'
+985
+Message sent to Kafka: b'{"trip_distance":0.76,"PULocationID":94,"DOLocationID":169,"fare_amount":5.5}'
+986
+Message sent to Kafka: b'{"trip_distance":13.0,"PULocationID":185,"DOLocationID":185,"fare_amount":20.0}'
+987
+Message sent to Kafka: b'{"trip_distance":1.18,"PULocationID":213,"DOLocationID":208,"fare_amount":7.0}'
+988
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+989
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+990
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":174,"DOLocationID":51,"fare_amount":17.2}'
+991
+Message sent to Kafka: b'{"trip_distance":2.22,"PULocationID":20,"DOLocationID":174,"fare_amount":14.0}'
+992
+Message sent to Kafka: b'{"trip_distance":0.47,"PULocationID":247,"DOLocationID":247,"fare_amount":5.5}'
+993
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":119,"DOLocationID":20,"fare_amount":49.2}'
+994
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":235,"DOLocationID":94,"fare_amount":15.2}'
+995
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":94,"DOLocationID":235,"fare_amount":15.2}'
+996
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":213,"DOLocationID":182,"fare_amount":15.2}'
+997
+Message sent to Kafka: b'{"trip_distance":7.8,"PULocationID":168,"DOLocationID":18,"fare_amount":23.5}'
+998
+Message sent to Kafka: b'{"trip_distance":1.53,"PULocationID":136,"DOLocationID":18,"fare_amount":8.0}'
+999
+Message sent to Kafka: b'{"trip_distance":0.95,"PULocationID":168,"DOLocationID":159,"fare_amount":6.0}'
+1000
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":254,"DOLocationID":168,"fare_amount":32.2}'
+1001
+Message sent to Kafka: b'{"trip_distance":6.5,"PULocationID":248,"DOLocationID":200,"fare_amount":31.2}'
+1002
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":78,"DOLocationID":147,"fare_amount":16.2}'
+1003
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+1004
+Message sent to Kafka: b'{"trip_distance":1.21,"PULocationID":69,"DOLocationID":119,"fare_amount":7.0}'
+1005
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+1006
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":69,"DOLocationID":247,"fare_amount":17.2}'
+1007
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":208,"DOLocationID":208,"fare_amount":4.0}'
+1008
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+1009
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+1010
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":69,"DOLocationID":159,"fare_amount":15.2}'
+1011
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":119,"DOLocationID":169,"fare_amount":15.2}'
+1012
+Message sent to Kafka: b'{"trip_distance":7.0,"PULocationID":126,"DOLocationID":174,"fare_amount":20.2}'
+1013
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":51,"DOLocationID":3,"fare_amount":17.2}'
+1014
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":168,"DOLocationID":167,"fare_amount":11.0}'
+1015
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":167,"DOLocationID":167,"fare_amount":3.5}'
+1016
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+1017
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":185,"DOLocationID":78,"fare_amount":17.2}'
+1018
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":78,"DOLocationID":182,"fare_amount":17.2}'
+1019
+Message sent to Kafka: b'{"trip_distance":2.12,"PULocationID":47,"DOLocationID":168,"fare_amount":11.5}'
+1020
+Message sent to Kafka: b'{"trip_distance":6.81,"PULocationID":168,"DOLocationID":174,"fare_amount":22.0}'
+1021
+Message sent to Kafka: b'{"trip_distance":4.56,"PULocationID":168,"DOLocationID":18,"fare_amount":19.5}'
+1022
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":32,"DOLocationID":213,"fare_amount":14.5}'
+1023
+Message sent to Kafka: b'{"trip_distance":8.1,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+1024
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":47,"DOLocationID":254,"fare_amount":22.2}'
+1025
+Message sent to Kafka: b'{"trip_distance":2.94,"PULocationID":242,"DOLocationID":32,"fare_amount":15.5}'
+1026
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+1027
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":242,"DOLocationID":254,"fare_amount":21.2}'
+1028
+Message sent to Kafka: b'{"trip_distance":1.77,"PULocationID":174,"DOLocationID":174,"fare_amount":11.0}'
+1029
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+1030
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":169,"DOLocationID":18,"fare_amount":8.0}'
+1031
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":254,"DOLocationID":47,"fare_amount":20.2}'
+1032
+Message sent to Kafka: b'{"trip_distance":0.41,"PULocationID":60,"DOLocationID":60,"fare_amount":4.0}'
+1033
+Message sent to Kafka: b'{"trip_distance":5.53,"PULocationID":248,"DOLocationID":136,"fare_amount":17.5}'
+1034
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":213,"DOLocationID":20,"fare_amount":15.0}'
+1035
+Message sent to Kafka: b'{"trip_distance":5.49,"PULocationID":168,"DOLocationID":169,"fare_amount":18.5}'
+1036
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":213,"DOLocationID":208,"fare_amount":7.0}'
+1037
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":168,"DOLocationID":119,"fare_amount":10.0}'
+1038
+Message sent to Kafka: b'{"trip_distance":0.64,"PULocationID":168,"DOLocationID":247,"fare_amount":5.5}'
+1039
+Message sent to Kafka: b'{"trip_distance":6.4,"PULocationID":51,"DOLocationID":213,"fare_amount":38.2}'
+1040
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":250,"DOLocationID":169,"fare_amount":15.5}'
+1041
+Message sent to Kafka: b'{"trip_distance":0.55,"PULocationID":167,"DOLocationID":159,"fare_amount":4.0}'
+1042
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+1043
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":47,"DOLocationID":168,"fare_amount":18.2}'
+1044
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":169,"DOLocationID":20,"fare_amount":15.2}'
+1045
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":20,"DOLocationID":169,"fare_amount":15.2}'
+1046
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":235,"DOLocationID":235,"fare_amount":16.2}'
+1047
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":18,"DOLocationID":174,"fare_amount":16.2}'
+1048
+Message sent to Kafka: b'{"trip_distance":1.42,"PULocationID":241,"DOLocationID":174,"fare_amount":8.5}'
+1049
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":69,"DOLocationID":147,"fare_amount":16.2}'
+1050
+Message sent to Kafka: b'{"trip_distance":5.7,"PULocationID":168,"DOLocationID":136,"fare_amount":24.2}'
+1051
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":168,"DOLocationID":169,"fare_amount":18.2}'
+1052
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":169,"DOLocationID":3,"fare_amount":18.2}'
+1053
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":32,"DOLocationID":241,"fare_amount":17.2}'
+1054
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":32,"DOLocationID":242,"fare_amount":18.2}'
+1055
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":241,"DOLocationID":159,"fare_amount":20.2}'
+1056
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":174,"DOLocationID":254,"fare_amount":18.2}'
+1057
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":212,"DOLocationID":119,"fare_amount":27.2}'
+1058
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":220,"DOLocationID":220,"fare_amount":6.0}'
+1059
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":242,"DOLocationID":32,"fare_amount":18.2}'
+1060
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":169,"DOLocationID":47,"fare_amount":16.2}'
+1061
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":51,"DOLocationID":242,"fare_amount":24.2}'
+1062
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":212,"DOLocationID":242,"fare_amount":18.2}'
+1063
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":259,"DOLocationID":241,"fare_amount":27.2}'
+1064
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":242,"DOLocationID":182,"fare_amount":15.2}'
+1065
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":174,"DOLocationID":69,"fare_amount":22.2}'
+1066
+Message sent to Kafka: b'{"trip_distance":2.74,"PULocationID":60,"DOLocationID":174,"fare_amount":19.0}'
+1067
+Message sent to Kafka: b'{"trip_distance":1.45,"PULocationID":248,"DOLocationID":213,"fare_amount":7.0}'
+1068
+Message sent to Kafka: b'{"trip_distance":4.57,"PULocationID":174,"DOLocationID":69,"fare_amount":25.5}'
+1069
+Message sent to Kafka: b'{"trip_distance":8.2,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+1070
+Message sent to Kafka: b'{"trip_distance":1.12,"PULocationID":247,"DOLocationID":159,"fare_amount":8.5}'
+1071
+Message sent to Kafka: b'{"trip_distance":6.98,"PULocationID":126,"DOLocationID":3,"fare_amount":26.0}'
+1072
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":20,"DOLocationID":119,"fare_amount":15.2}'
+1073
+Message sent to Kafka: b'{"trip_distance":0.36,"PULocationID":147,"DOLocationID":147,"fare_amount":3.5}'
+1074
+Message sent to Kafka: b'{"trip_distance":1.43,"PULocationID":220,"DOLocationID":200,"fare_amount":8.5}'
+1075
+Message sent to Kafka: b'{"trip_distance":4.67,"PULocationID":240,"DOLocationID":60,"fare_amount":16.0}'
+1076
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":78,"DOLocationID":213,"fare_amount":14.0}'
+1077
+Message sent to Kafka: b'{"trip_distance":0.29,"PULocationID":168,"DOLocationID":159,"fare_amount":40.0}'
+1078
+Message sent to Kafka: b'{"trip_distance":0.45,"PULocationID":242,"DOLocationID":242,"fare_amount":4.0}'
+1079
+Message sent to Kafka: b'{"trip_distance":3.65,"PULocationID":254,"DOLocationID":169,"fare_amount":14.0}'
+1080
+Message sent to Kafka: b'{"trip_distance":8.3,"PULocationID":51,"DOLocationID":167,"fare_amount":38.2}'
+1081
+Message sent to Kafka: b'{"trip_distance":8.3,"PULocationID":168,"DOLocationID":58,"fare_amount":24.5}'
+1082
+Message sent to Kafka: b'{"trip_distance":7.7,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+1083
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":220,"DOLocationID":200,"fare_amount":8.0}'
+1084
+Message sent to Kafka: b'{"trip_distance":7.1,"PULocationID":69,"DOLocationID":174,"fare_amount":25.5}'
+1085
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":18.2}'
+1086
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":81,"DOLocationID":78,"fare_amount":21.2}'
+1087
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":78,"DOLocationID":174,"fare_amount":19.2}'
+1088
+Message sent to Kafka: b'{"trip_distance":5.5,"PULocationID":241,"DOLocationID":242,"fare_amount":27.2}'
+1089
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":78,"DOLocationID":159,"fare_amount":15.2}'
+1090
+Message sent to Kafka: b'{"trip_distance":0.35,"PULocationID":247,"DOLocationID":247,"fare_amount":4.5}'
+1091
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":182,"DOLocationID":185,"fare_amount":15.2}'
+1092
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":259,"DOLocationID":18,"fare_amount":63.2}'
+1093
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":69,"DOLocationID":159,"fare_amount":26.2}'
+1094
+Message sent to Kafka: b'{"trip_distance":1.16,"PULocationID":167,"DOLocationID":168,"fare_amount":8.5}'
+1095
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+1096
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":81,"DOLocationID":174,"fare_amount":15.2}'
+1097
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":69,"DOLocationID":168,"fare_amount":17.2}'
+1098
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":18,"DOLocationID":18,"fare_amount":3.5}'
+1099
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":3,"DOLocationID":247,"fare_amount":30.2}'
+1100
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":51,"DOLocationID":212,"fare_amount":24.2}'
+1101
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":159,"DOLocationID":235,"fare_amount":19.2}'
+1102
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":51,"DOLocationID":51,"fare_amount":19.2}'
+1103
+Message sent to Kafka: b'{"trip_distance":1.24,"PULocationID":18,"DOLocationID":20,"fare_amount":9.0}'
+1104
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":174,"DOLocationID":213,"fare_amount":25.2}'
+1105
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":47,"DOLocationID":213,"fare_amount":17.5}'
+1106
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":18,"DOLocationID":174,"fare_amount":16.2}'
+1107
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":51,"DOLocationID":46,"fare_amount":23.2}'
+1108
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+1109
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+1110
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":69,"DOLocationID":51,"fare_amount":28.2}'
+1111
+Message sent to Kafka: b'{"trip_distance":1.08,"PULocationID":159,"DOLocationID":168,"fare_amount":6.5}'
+1112
+Message sent to Kafka: b'{"trip_distance":0.32,"PULocationID":247,"DOLocationID":247,"fare_amount":10.0}'
+1113
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":247,"DOLocationID":167,"fare_amount":16.0}'
+1114
+Message sent to Kafka: b'{"trip_distance":6.21,"PULocationID":159,"DOLocationID":182,"fare_amount":22.0}'
+1115
+Message sent to Kafka: b'{"trip_distance":0.52,"PULocationID":119,"DOLocationID":119,"fare_amount":4.0}'
+1116
+Message sent to Kafka: b'{"trip_distance":4.78,"PULocationID":250,"DOLocationID":18,"fare_amount":15.5}'
+1117
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+1118
+Message sent to Kafka: b'{"trip_distance":7.6,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+1119
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+1120
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":250,"DOLocationID":242,"fare_amount":15.2}'
+1121
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":254,"DOLocationID":32,"fare_amount":12.2}'
+1122
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":126,"DOLocationID":242,"fare_amount":17.2}'
+1123
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":147,"DOLocationID":3,"fare_amount":27.2}'
+1124
+Message sent to Kafka: b'{"trip_distance":2.8,"PULocationID":136,"DOLocationID":32,"fare_amount":19.2}'
+1125
+Message sent to Kafka: b'{"trip_distance":5.0,"PULocationID":136,"DOLocationID":168,"fare_amount":49.2}'
+1126
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":47,"DOLocationID":242,"fare_amount":28.2}'
+1127
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":259,"DOLocationID":183,"fare_amount":20.2}'
+1128
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":242,"DOLocationID":174,"fare_amount":18.2}'
+1129
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":119,"DOLocationID":47,"fare_amount":16.2}'
+1130
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":213,"DOLocationID":168,"fare_amount":28.2}'
+1131
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":250,"DOLocationID":182,"fare_amount":8.0}'
+1132
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":242,"DOLocationID":182,"fare_amount":15.2}'
+1133
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":3,"DOLocationID":213,"fare_amount":23.2}'
+1134
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":169,"DOLocationID":174,"fare_amount":20.2}'
+1135
+Message sent to Kafka: b'{"trip_distance":3.11,"PULocationID":208,"DOLocationID":51,"fare_amount":13.5}'
+1136
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":182,"DOLocationID":32,"fare_amount":18.2}'
+1137
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":213,"DOLocationID":213,"fare_amount":16.2}'
+1138
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":213,"DOLocationID":213,"fare_amount":6.0}'
+1139
+Message sent to Kafka: b'{"trip_distance":0.23,"PULocationID":167,"DOLocationID":69,"fare_amount":4.0}'
+1140
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":168,"DOLocationID":119,"fare_amount":15.0}'
+1141
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":18,"DOLocationID":220,"fare_amount":12.5}'
+1142
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":159,"DOLocationID":78,"fare_amount":14.5}'
+1143
+Message sent to Kafka: b'{"trip_distance":2.89,"PULocationID":78,"DOLocationID":182,"fare_amount":12.5}'
+1144
+Message sent to Kafka: b'{"trip_distance":3.15,"PULocationID":159,"DOLocationID":235,"fare_amount":14.5}'
+1145
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":119,"DOLocationID":168,"fare_amount":10.0}'
+1146
+Message sent to Kafka: b'{"trip_distance":4.25,"PULocationID":235,"DOLocationID":254,"fare_amount":16.0}'
+1147
+Message sent to Kafka: b'{"trip_distance":0.67,"PULocationID":254,"DOLocationID":254,"fare_amount":4.5}'
+1148
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":136,"DOLocationID":241,"fare_amount":3.5}'
+1149
+Message sent to Kafka: b'{"trip_distance":6.07,"PULocationID":167,"DOLocationID":183,"fare_amount":19.0}'
+1150
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":200,"DOLocationID":220,"fare_amount":4.5}'
+1151
+Message sent to Kafka: b'{"trip_distance":8.27,"PULocationID":159,"DOLocationID":254,"fare_amount":26.0}'
+1152
+Message sent to Kafka: b'{"trip_distance":2.62,"PULocationID":169,"DOLocationID":247,"fare_amount":10.0}'
+1153
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":212,"DOLocationID":69,"fare_amount":22.2}'
+1154
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":167,"DOLocationID":78,"fare_amount":18.2}'
+1155
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":136,"DOLocationID":51,"fare_amount":37.2}'
+1156
+Message sent to Kafka: b'{"trip_distance":2.32,"PULocationID":168,"DOLocationID":167,"fare_amount":10.5}'
+1157
+Message sent to Kafka: b'{"trip_distance":6.8,"PULocationID":78,"DOLocationID":51,"fare_amount":22.2}'
+1158
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":182,"DOLocationID":174,"fare_amount":23.2}'
+1159
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":51,"DOLocationID":242,"fare_amount":20.2}'
+1160
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":51,"DOLocationID":81,"fare_amount":18.2}'
+1161
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":213,"DOLocationID":81,"fare_amount":28.2}'
+1162
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":242,"DOLocationID":212,"fare_amount":17.2}'
+1163
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":94,"DOLocationID":18,"fare_amount":18.2}'
+1164
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":220,"DOLocationID":213,"fare_amount":34.2}'
+1165
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":200,"fare_amount":22.2}'
+1166
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":81,"DOLocationID":32,"fare_amount":18.2}'
+1167
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":213,"DOLocationID":235,"fare_amount":30.2}'
+1168
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":212,"DOLocationID":126,"fare_amount":20.2}'
+1169
+Message sent to Kafka: b'{"trip_distance":9.7,"PULocationID":200,"DOLocationID":208,"fare_amount":36.2}'
+1170
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":51,"DOLocationID":174,"fare_amount":24.2}'
+1171
+Message sent to Kafka: b'{"trip_distance":5.3,"PULocationID":235,"DOLocationID":208,"fare_amount":33.2}'
+1172
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":51,"DOLocationID":78,"fare_amount":29.2}'
+1173
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":81,"DOLocationID":174,"fare_amount":18.2}'
+1174
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":136,"DOLocationID":168,"fare_amount":24.2}'
+1175
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":183,"DOLocationID":126,"fare_amount":24.2}'
+1176
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":69,"DOLocationID":247,"fare_amount":20.2}'
+1177
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":174,"DOLocationID":136,"fare_amount":18.2}'
+1178
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":213,"DOLocationID":167,"fare_amount":20.2}'
+1179
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":247,"DOLocationID":159,"fare_amount":15.2}'
+1180
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":159,"DOLocationID":119,"fare_amount":18.2}'
+1181
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":182,"DOLocationID":168,"fare_amount":23.2}'
+1182
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":220,"DOLocationID":136,"fare_amount":17.2}'
+1183
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":18,"DOLocationID":213,"fare_amount":22.2}'
+1184
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+1185
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":254,"DOLocationID":81,"fare_amount":17.2}'
+1186
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":220,"DOLocationID":47,"fare_amount":23.2}'
+1187
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":167,"DOLocationID":46,"fare_amount":32.2}'
+1188
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":119,"DOLocationID":247,"fare_amount":15.2}'
+1189
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":250,"DOLocationID":213,"fare_amount":17.2}'
+1190
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":51,"DOLocationID":81,"fare_amount":19.2}'
+1191
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":69,"DOLocationID":69,"fare_amount":25.2}'
+1192
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":126,"DOLocationID":183,"fare_amount":24.2}'
+1193
+Message sent to Kafka: b'{"trip_distance":2.99,"PULocationID":250,"DOLocationID":32,"fare_amount":12.5}'
+1194
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":119,"DOLocationID":213,"fare_amount":18.2}'
+1195
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":213,"DOLocationID":51,"fare_amount":20.2}'
+1196
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":32,"DOLocationID":185,"fare_amount":16.2}'
+1197
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":250,"DOLocationID":136,"fare_amount":22.2}'
+1198
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":212,"DOLocationID":248,"fare_amount":20.2}'
+1199
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":212,"DOLocationID":174,"fare_amount":24.2}'
+1200
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":119,"DOLocationID":168,"fare_amount":17.2}'
+1201
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":168,"DOLocationID":119,"fare_amount":17.2}'
+1202
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":235,"DOLocationID":247,"fare_amount":15.2}'
+1203
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":167,"DOLocationID":247,"fare_amount":3.5}'
+1204
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":250,"DOLocationID":78,"fare_amount":20.2}'
+1205
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":213,"DOLocationID":51,"fare_amount":25.2}'
+1206
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":174,"DOLocationID":51,"fare_amount":20.2}'
+1207
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":46,"DOLocationID":60,"fare_amount":29.2}'
+1208
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":147,"DOLocationID":235,"fare_amount":20.2}'
+1209
+Message sent to Kafka: b'{"trip_distance":7.2,"PULocationID":242,"DOLocationID":200,"fare_amount":31.2}'
+1210
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":167,"DOLocationID":60,"fare_amount":15.2}'
+1211
+Message sent to Kafka: b'{"trip_distance":6.7,"PULocationID":3,"DOLocationID":47,"fare_amount":28.2}'
+1212
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":47,"DOLocationID":213,"fare_amount":21.2}'
+1213
+Message sent to Kafka: b'{"trip_distance":8.4,"PULocationID":167,"DOLocationID":51,"fare_amount":34.2}'
+1214
+Message sent to Kafka: b'{"trip_distance":0.65,"PULocationID":168,"DOLocationID":168,"fare_amount":5.0}'
+1215
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":51,"DOLocationID":213,"fare_amount":22.2}'
+1216
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":213,"DOLocationID":119,"fare_amount":24.2}'
+1217
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":32,"DOLocationID":51,"fare_amount":20.2}'
+1218
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":200,"DOLocationID":200,"fare_amount":4.0}'
+1219
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":213,"DOLocationID":69,"fare_amount":20.2}'
+1220
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":235,"DOLocationID":247,"fare_amount":20.2}'
+1221
+Message sent to Kafka: b'{"trip_distance":6.9,"PULocationID":174,"DOLocationID":159,"fare_amount":27.2}'
+1222
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":250,"DOLocationID":81,"fare_amount":26.2}'
+1223
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":136,"DOLocationID":185,"fare_amount":26.2}'
+1224
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":147,"DOLocationID":126,"fare_amount":15.2}'
+1225
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":32,"DOLocationID":81,"fare_amount":18.2}'
+1226
+Message sent to Kafka: b'{"trip_distance":5.6,"PULocationID":81,"DOLocationID":147,"fare_amount":30.2}'
+1227
+Message sent to Kafka: b'{"trip_distance":1.62,"PULocationID":78,"DOLocationID":94,"fare_amount":10.0}'
+1228
+Message sent to Kafka: b'{"trip_distance":4.48,"PULocationID":136,"DOLocationID":250,"fare_amount":22.5}'
+1229
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":126,"DOLocationID":147,"fare_amount":15.2}'
+1230
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":250,"DOLocationID":147,"fare_amount":23.2}'
+1231
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":18,"DOLocationID":168,"fare_amount":30.2}'
+1232
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":242,"DOLocationID":254,"fare_amount":21.2}'
+1233
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":213,"DOLocationID":18,"fare_amount":24.2}'
+1234
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":185,"DOLocationID":212,"fare_amount":22.2}'
+1235
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":20,"DOLocationID":159,"fare_amount":27.2}'
+1236
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":241,"DOLocationID":119,"fare_amount":17.2}'
+1237
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":159,"DOLocationID":60,"fare_amount":17.2}'
+1238
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":213,"DOLocationID":51,"fare_amount":23.2}'
+1239
+Message sent to Kafka: b'{"trip_distance":5.1,"PULocationID":254,"DOLocationID":235,"fare_amount":32.2}'
+1240
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":208,"DOLocationID":78,"fare_amount":25.2}'
+1241
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":168,"DOLocationID":136,"fare_amount":24.2}'
+1242
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":94,"DOLocationID":69,"fare_amount":20.2}'
+1243
+Message sent to Kafka: b'{"trip_distance":3.41,"PULocationID":247,"DOLocationID":126,"fare_amount":15.0}'
+1244
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":167,"DOLocationID":168,"fare_amount":18.2}'
+1245
+Message sent to Kafka: b'{"trip_distance":7.9,"PULocationID":81,"DOLocationID":235,"fare_amount":30.2}'
+1246
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":247,"DOLocationID":235,"fare_amount":20.2}'
+1247
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":235,"DOLocationID":119,"fare_amount":16.2}'
+1248
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":51,"DOLocationID":174,"fare_amount":25.2}'
+1249
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":51,"DOLocationID":126,"fare_amount":30.2}'
+1250
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":159,"DOLocationID":69,"fare_amount":9.0}'
+1251
+Message sent to Kafka: b'{"trip_distance":1.27,"PULocationID":242,"DOLocationID":182,"fare_amount":7.5}'
+1252
+Message sent to Kafka: b'{"trip_distance":1.04,"PULocationID":136,"DOLocationID":94,"fare_amount":6.5}'
+1253
+Message sent to Kafka: b'{"trip_distance":1.01,"PULocationID":169,"DOLocationID":78,"fare_amount":5.5}'
+1254
+Message sent to Kafka: b'{"trip_distance":0.82,"PULocationID":248,"DOLocationID":248,"fare_amount":5.0}'
+1255
+Message sent to Kafka: b'{"trip_distance":7.0,"PULocationID":51,"DOLocationID":248,"fare_amount":21.0}'
+1256
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":248,"DOLocationID":60,"fare_amount":6.5}'
+1257
+Message sent to Kafka: b'{"trip_distance":2.13,"PULocationID":168,"DOLocationID":69,"fare_amount":8.5}'
+1258
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":159,"DOLocationID":159,"fare_amount":6.5}'
+1259
+Message sent to Kafka: b'{"trip_distance":5.8,"PULocationID":168,"DOLocationID":168,"fare_amount":19.0}'
+1260
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":47,"DOLocationID":167,"fare_amount":5.5}'
+1261
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":235,"DOLocationID":235,"fare_amount":16.2}'
+1262
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":159,"DOLocationID":241,"fare_amount":23.2}'
+1263
+Message sent to Kafka: b'{"trip_distance":9.3,"PULocationID":235,"DOLocationID":208,"fare_amount":30.2}'
+1264
+Message sent to Kafka: b'{"trip_distance":1.54,"PULocationID":168,"DOLocationID":69,"fare_amount":7.0}'
+1265
+Message sent to Kafka: b'{"trip_distance":1.76,"PULocationID":159,"DOLocationID":119,"fare_amount":8.0}'
+1266
+Message sent to Kafka: b'{"trip_distance":1.77,"PULocationID":69,"DOLocationID":167,"fare_amount":7.5}'
+1267
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":69,"DOLocationID":47,"fare_amount":10.0}'
+1268
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":213,"DOLocationID":94,"fare_amount":24.2}'
+1269
+Message sent to Kafka: b'{"trip_distance":0.33,"PULocationID":247,"DOLocationID":247,"fare_amount":3.5}'
+1270
+Message sent to Kafka: b'{"trip_distance":5.83,"PULocationID":168,"DOLocationID":78,"fare_amount":20.0}'
+1271
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":167,"DOLocationID":159,"fare_amount":5.0}'
+1272
+Message sent to Kafka: b'{"trip_distance":1.44,"PULocationID":159,"DOLocationID":69,"fare_amount":8.0}'
+1273
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":147,"DOLocationID":69,"fare_amount":16.2}'
+1274
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":182,"DOLocationID":167,"fare_amount":19.2}'
+1275
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":248,"DOLocationID":212,"fare_amount":16.2}'
+1276
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":167,"DOLocationID":248,"fare_amount":19.2}'
+1277
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":241,"DOLocationID":241,"fare_amount":17.2}'
+1278
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":235,"DOLocationID":69,"fare_amount":17.2}'
+1279
+Message sent to Kafka: b'{"trip_distance":0.43,"PULocationID":159,"DOLocationID":159,"fare_amount":4.0}'
+1280
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":51,"DOLocationID":212,"fare_amount":24.2}'
+1281
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":247,"DOLocationID":240,"fare_amount":27.2}'
+1282
+Message sent to Kafka: b'{"trip_distance":4.68,"PULocationID":220,"DOLocationID":174,"fare_amount":15.0}'
+1283
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":94,"DOLocationID":168,"fare_amount":27.2}'
+1284
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":168,"DOLocationID":147,"fare_amount":17.2}'
+1285
+Message sent to Kafka: b'{"trip_distance":0.56,"PULocationID":159,"DOLocationID":167,"fare_amount":5.0}'
+1286
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":242,"DOLocationID":213,"fare_amount":20.2}'
+1287
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":32,"DOLocationID":254,"fare_amount":17.2}'
+1288
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":47,"DOLocationID":60,"fare_amount":17.2}'
+1289
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":51,"DOLocationID":254,"fare_amount":27.2}'
+1290
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":167,"DOLocationID":259,"fare_amount":31.2}'
+1291
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":78,"DOLocationID":242,"fare_amount":18.2}'
+1292
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":167,"DOLocationID":169,"fare_amount":18.2}'
+1293
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":212,"DOLocationID":248,"fare_amount":15.2}'
+1294
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":213,"DOLocationID":167,"fare_amount":19.2}'
+1295
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":159,"DOLocationID":69,"fare_amount":15.2}'
+1296
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":20,"DOLocationID":20,"fare_amount":4.0}'
+1297
+Message sent to Kafka: b'{"trip_distance":5.9,"PULocationID":254,"DOLocationID":182,"fare_amount":27.2}'
+1298
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":250,"DOLocationID":213,"fare_amount":19.2}'
+1299
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":47,"DOLocationID":119,"fare_amount":17.2}'
+1300
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":47,"DOLocationID":213,"fare_amount":23.2}'
+1301
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":69,"DOLocationID":159,"fare_amount":16.2}'
+1302
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":169,"DOLocationID":212,"fare_amount":20.2}'
+1303
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":94,"DOLocationID":213,"fare_amount":24.2}'
+1304
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":248,"DOLocationID":47,"fare_amount":19.2}'
+1305
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":20,"DOLocationID":69,"fare_amount":20.2}'
+1306
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":208,"DOLocationID":69,"fare_amount":28.2}'
+1307
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":119,"DOLocationID":169,"fare_amount":18.2}'
+1308
+Message sent to Kafka: b'{"trip_distance":1.5,"PULocationID":247,"DOLocationID":167,"fare_amount":18.2}'
+1309
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":247,"DOLocationID":235,"fare_amount":21.2}'
+1310
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":168,"DOLocationID":81,"fare_amount":34.2}'
+1311
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":78,"DOLocationID":78,"fare_amount":19.2}'
+1312
+Message sent to Kafka: b'{"trip_distance":5.5,"PULocationID":167,"DOLocationID":32,"fare_amount":26.2}'
+1313
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":60,"DOLocationID":69,"fare_amount":18.2}'
+1314
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":182,"DOLocationID":183,"fare_amount":18.2}'
+1315
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":168,"DOLocationID":168,"fare_amount":3.5}'
+1316
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":242,"DOLocationID":147,"fare_amount":24.2}'
+1317
+Message sent to Kafka: b'{"trip_distance":0.62,"PULocationID":167,"DOLocationID":159,"fare_amount":4.5}'
+1318
+Message sent to Kafka: b'{"trip_distance":6.8,"PULocationID":119,"DOLocationID":60,"fare_amount":21.0}'
+1319
+Message sent to Kafka: b'{"trip_distance":3.5,"PULocationID":247,"DOLocationID":248,"fare_amount":16.0}'
+1320
+Message sent to Kafka: b'{"trip_distance":8.7,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+1321
+Message sent to Kafka: b'{"trip_distance":9.13,"PULocationID":69,"DOLocationID":242,"fare_amount":28.5}'
+1322
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+1323
+Message sent to Kafka: b'{"trip_distance":4.98,"PULocationID":159,"DOLocationID":18,"fare_amount":21.5}'
+1324
+Message sent to Kafka: b'{"trip_distance":0.59,"PULocationID":247,"DOLocationID":247,"fare_amount":3.5}'
+1325
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+1326
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":126,"DOLocationID":242,"fare_amount":17.2}'
+1327
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":248,"DOLocationID":242,"fare_amount":21.2}'
+1328
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":147,"DOLocationID":248,"fare_amount":20.2}'
+1329
+Message sent to Kafka: b'{"trip_distance":4.5,"PULocationID":174,"DOLocationID":182,"fare_amount":18.2}'
+1330
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":242,"DOLocationID":169,"fare_amount":26.2}'
+1331
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":169,"DOLocationID":78,"fare_amount":18.2}'
+1332
+Message sent to Kafka: b'{"trip_distance":3.8,"PULocationID":242,"DOLocationID":147,"fare_amount":20.2}'
+1333
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":169,"DOLocationID":174,"fare_amount":19.2}'
+1334
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":242,"DOLocationID":254,"fare_amount":20.2}'
+1335
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+1336
+Message sent to Kafka: b'{"trip_distance":0.78,"PULocationID":220,"DOLocationID":220,"fare_amount":5.5}'
+1337
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":168,"DOLocationID":168,"fare_amount":3.5}'
+1338
+Message sent to Kafka: b'{"trip_distance":0.69,"PULocationID":69,"DOLocationID":159,"fare_amount":4.5}'
+1339
+Message sent to Kafka: b'{"trip_distance":7.17,"PULocationID":119,"DOLocationID":254,"fare_amount":23.0}'
+1340
+Message sent to Kafka: b'{"trip_distance":0.88,"PULocationID":69,"DOLocationID":47,"fare_amount":5.5}'
+1341
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":212,"DOLocationID":242,"fare_amount":8.0}'
+1342
+Message sent to Kafka: b'{"trip_distance":0.18,"PULocationID":60,"DOLocationID":60,"fare_amount":3.5}'
+1343
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":69,"DOLocationID":254,"fare_amount":28.2}'
+1344
+Message sent to Kafka: b'{"trip_distance":7.0,"PULocationID":51,"DOLocationID":60,"fare_amount":38.2}'
+1345
+Message sent to Kafka: b'{"trip_distance":1.42,"PULocationID":168,"DOLocationID":69,"fare_amount":8.5}'
+1346
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":119,"DOLocationID":254,"fare_amount":31.2}'
+1347
+Message sent to Kafka: b'{"trip_distance":0.49,"PULocationID":208,"DOLocationID":208,"fare_amount":4.0}'
+1348
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":241,"DOLocationID":69,"fare_amount":17.2}'
+1349
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":240,"DOLocationID":254,"fare_amount":4.5}'
+1350
+Message sent to Kafka: b'{"trip_distance":4.14,"PULocationID":213,"DOLocationID":168,"fare_amount":15.0}'
+1351
+Message sent to Kafka: b'{"trip_distance":3.14,"PULocationID":168,"DOLocationID":60,"fare_amount":13.5}'
+1352
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":208,"DOLocationID":242,"fare_amount":6.0}'
+1353
+Message sent to Kafka: b'{"trip_distance":4.9,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+1354
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":174,"DOLocationID":81,"fare_amount":19.2}'
+1355
+Message sent to Kafka: b'{"trip_distance":4.29,"PULocationID":168,"DOLocationID":69,"fare_amount":15.5}'
+1356
+Message sent to Kafka: b'{"trip_distance":2.67,"PULocationID":168,"DOLocationID":147,"fare_amount":14.0}'
+1357
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":220,"DOLocationID":200,"fare_amount":14.0}'
+1358
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":47,"DOLocationID":159,"fare_amount":13.0}'
+1359
+Message sent to Kafka: b'{"trip_distance":3.1,"PULocationID":81,"DOLocationID":182,"fare_amount":20.2}'
+1360
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":247,"DOLocationID":247,"fare_amount":11.5}'
+1361
+Message sent to Kafka: b'{"trip_distance":11.25,"PULocationID":168,"DOLocationID":3,"fare_amount":34.0}'
+1362
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+1363
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":81,"DOLocationID":241,"fare_amount":19.5}'
+1364
+Message sent to Kafka: b'{"trip_distance":5.2,"PULocationID":254,"DOLocationID":119,"fare_amount":32.2}'
+1365
+Message sent to Kafka: b'{"trip_distance":0.73,"PULocationID":213,"DOLocationID":126,"fare_amount":9.0}'
+1366
+Message sent to Kafka: b'{"trip_distance":1.8,"PULocationID":174,"DOLocationID":220,"fare_amount":10.5}'
+1367
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":220,"DOLocationID":241,"fare_amount":15.2}'
+1368
+Message sent to Kafka: b'{"trip_distance":6.3,"PULocationID":119,"DOLocationID":51,"fare_amount":26.2}'
+1369
+Message sent to Kafka: b'{"trip_distance":2.69,"PULocationID":168,"DOLocationID":168,"fare_amount":13.0}'
+1370
+Message sent to Kafka: b'{"trip_distance":4.4,"PULocationID":168,"DOLocationID":182,"fare_amount":15.0}'
+1371
+Message sent to Kafka: b'{"trip_distance":1.97,"PULocationID":31,"DOLocationID":136,"fare_amount":9.0}'
+1372
+Message sent to Kafka: b'{"trip_distance":3.17,"PULocationID":200,"DOLocationID":18,"fare_amount":12.0}'
+1373
+Message sent to Kafka: b'{"trip_distance":1.13,"PULocationID":126,"DOLocationID":213,"fare_amount":6.5}'
+1374
+Message sent to Kafka: b'{"trip_distance":1.09,"PULocationID":136,"DOLocationID":235,"fare_amount":5.0}'
+1375
+Message sent to Kafka: b'{"trip_distance":2.19,"PULocationID":136,"DOLocationID":20,"fare_amount":10.5}'
+1376
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":168,"DOLocationID":168,"fare_amount":5.0}'
+1377
+Message sent to Kafka: b'{"trip_distance":2.0,"PULocationID":147,"DOLocationID":147,"fare_amount":40.0}'
+1378
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":168,"DOLocationID":168,"fare_amount":11.0}'
+1379
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":168,"DOLocationID":168,"fare_amount":7.0}'
+1380
+Message sent to Kafka: b'{"trip_distance":8.6,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+1381
+Message sent to Kafka: b'{"trip_distance":3.55,"PULocationID":235,"DOLocationID":60,"fare_amount":16.5}'
+1382
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":235,"DOLocationID":242,"fare_amount":24.2}'
+1383
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":126,"DOLocationID":159,"fare_amount":21.2}'
+1384
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":78,"DOLocationID":159,"fare_amount":21.2}'
+1385
+Message sent to Kafka: b'{"trip_distance":0.2,"PULocationID":248,"DOLocationID":136,"fare_amount":25.2}'
+1386
+Message sent to Kafka: b'{"trip_distance":7.4,"PULocationID":3,"DOLocationID":168,"fare_amount":30.2}'
+1387
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":69,"DOLocationID":213,"fare_amount":18.2}'
+1388
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":242,"DOLocationID":250,"fare_amount":17.2}'
+1389
+Message sent to Kafka: b'{"trip_distance":1.0,"PULocationID":259,"DOLocationID":254,"fare_amount":16.2}'
+1390
+Message sent to Kafka: b'{"trip_distance":3.3,"PULocationID":51,"DOLocationID":254,"fare_amount":21.2}'
+1391
+Message sent to Kafka: b'{"trip_distance":7.5,"PULocationID":220,"DOLocationID":250,"fare_amount":28.2}'
+1392
+Message sent to Kafka: b'{"trip_distance":6.2,"PULocationID":32,"DOLocationID":159,"fare_amount":32.2}'
+1393
+Message sent to Kafka: b'{"trip_distance":1.29,"PULocationID":213,"DOLocationID":248,"fare_amount":6.5}'
+1394
+Message sent to Kafka: b'{"trip_distance":4.2,"PULocationID":242,"DOLocationID":235,"fare_amount":18.2}'
+1395
+Message sent to Kafka: b'{"trip_distance":0.7,"PULocationID":159,"DOLocationID":167,"fare_amount":15.2}'
+1396
+Message sent to Kafka: b'{"trip_distance":1.4,"PULocationID":213,"DOLocationID":250,"fare_amount":18.2}'
+1397
+Message sent to Kafka: b'{"trip_distance":3.9,"PULocationID":174,"DOLocationID":212,"fare_amount":18.2}'
+1398
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+1399
+Message sent to Kafka: b'{"trip_distance":1.6,"PULocationID":32,"DOLocationID":242,"fare_amount":19.2}'
+1400
+Message sent to Kafka: b'{"trip_distance":3.7,"PULocationID":159,"DOLocationID":31,"fare_amount":24.2}'
+1401
+Message sent to Kafka: b'{"trip_distance":3.6,"PULocationID":212,"DOLocationID":119,"fare_amount":27.2}'
+1402
+Message sent to Kafka: b'{"trip_distance":2.6,"PULocationID":212,"DOLocationID":242,"fare_amount":27.2}'
+1403
+Message sent to Kafka: b'{"trip_distance":6.1,"PULocationID":51,"DOLocationID":235,"fare_amount":27.2}'
+1404
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":47,"fare_amount":22.2}'
+1405
+Message sent to Kafka: b'{"trip_distance":0.4,"PULocationID":81,"DOLocationID":51,"fare_amount":15.2}'
+1406
+Message sent to Kafka: b'{"trip_distance":0.9,"PULocationID":18,"DOLocationID":78,"fare_amount":16.2}'
+1407
+Message sent to Kafka: b'{"trip_distance":8.0,"PULocationID":208,"DOLocationID":247,"fare_amount":29.2}'
+1408
+Message sent to Kafka: b'{"trip_distance":2.5,"PULocationID":78,"DOLocationID":235,"fare_amount":17.2}'
+1409
+Message sent to Kafka: b'{"trip_distance":1.2,"PULocationID":69,"DOLocationID":69,"fare_amount":6.0}'
+1410
+Message sent to Kafka: b'{"trip_distance":15.17,"PULocationID":200,"DOLocationID":242,"fare_amount":42.5}'
+1411
+Message sent to Kafka: b'{"trip_distance":0.27,"PULocationID":213,"DOLocationID":213,"fare_amount":50.0}'
+1412
+Message sent to Kafka: b'{"trip_distance":5.92,"PULocationID":185,"DOLocationID":159,"fare_amount":20.0}'
+1413
+Message sent to Kafka: b'{"trip_distance":0.3,"PULocationID":51,"DOLocationID":81,"fare_amount":4.0}'
+1414
+Message sent to Kafka: b'{"trip_distance":7.73,"PULocationID":168,"DOLocationID":250,"fare_amount":23.5}'
+1415
+Message sent to Kafka: b'{"trip_distance":1.35,"PULocationID":47,"DOLocationID":247,"fare_amount":7.0}'
+1416
+Message sent to Kafka: b'{"trip_distance":5.06,"PULocationID":247,"DOLocationID":213,"fare_amount":17.0}'
+1417
+Message sent to Kafka: b'{"trip_distance":1.06,"PULocationID":168,"DOLocationID":168,"fare_amount":5.5}'
+1418
+Message sent to Kafka: b'{"trip_distance":1.34,"PULocationID":18,"DOLocationID":136,"fare_amount":6.5}'
+1419
+Message sent to Kafka: b'{"trip_distance":6.08,"PULocationID":136,"DOLocationID":213,"fare_amount":18.0}'
+1420
+Message sent to Kafka: b'{"trip_distance":6.9,"PULocationID":168,"DOLocationID":169,"fare_amount":24.5}'
+1421
+Message sent to Kafka: b'{"trip_distance":6.0,"PULocationID":51,"DOLocationID":69,"fare_amount":38.2}'
+1422
+Message sent to Kafka: b'{"trip_distance":4.64,"PULocationID":168,"DOLocationID":136,"fare_amount":16.5}'
+1423
+Message sent to Kafka: b'{"trip_distance":2.11,"PULocationID":235,"DOLocationID":241,"fare_amount":9.5}'
+1424
+Message sent to Kafka: b'{"trip_distance":0.75,"PULocationID":247,"DOLocationID":168,"fare_amount":12.5}'
+1425
+Message sent to Kafka: b'{"trip_distance":4.23,"PULocationID":235,"DOLocationID":60,"fare_amount":16.5}'
+1426
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":208,"DOLocationID":242,"fare_amount":19.2}'
+1427
+Message sent to Kafka: b'{"trip_distance":2.7,"PULocationID":174,"DOLocationID":169,"fare_amount":20.2}'
+1428
+Message sent to Kafka: b'{"trip_distance":4.0,"PULocationID":78,"DOLocationID":81,"fare_amount":31.2}'
+1429
+Message sent to Kafka: b'{"trip_distance":1.36,"PULocationID":136,"DOLocationID":235,"fare_amount":6.5}'
+1430
+Message sent to Kafka: b'{"trip_distance":4.1,"PULocationID":213,"DOLocationID":3,"fare_amount":24.2}'
+1431
+Message sent to Kafka: b'{"trip_distance":1.7,"PULocationID":3,"DOLocationID":242,"fare_amount":18.2}'
+1432
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":51,"DOLocationID":3,"fare_amount":17.2}'
+1433
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":259,"DOLocationID":242,"fare_amount":23.2}'
+1434
+Message sent to Kafka: b'{"trip_distance":2.18,"PULocationID":168,"DOLocationID":60,"fare_amount":13.5}'
+1435
+Message sent to Kafka: b'{"trip_distance":2.9,"PULocationID":254,"DOLocationID":32,"fare_amount":18.2}'
+1436
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":69,"DOLocationID":242,"fare_amount":38.2}'
+1437
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":119,"DOLocationID":20,"fare_amount":15.2}'
+1438
+Message sent to Kafka: b'{"trip_distance":3.4,"PULocationID":174,"DOLocationID":167,"fare_amount":22.2}'
+1439
+Message sent to Kafka: b'{"trip_distance":0.5,"PULocationID":159,"DOLocationID":247,"fare_amount":5.5}'
+1440
+Message sent to Kafka: b'{"trip_distance":4.3,"PULocationID":235,"DOLocationID":213,"fare_amount":30.2}'
+1441
+Message sent to Kafka: b'{"trip_distance":1.3,"PULocationID":242,"DOLocationID":208,"fare_amount":6.5}'
+1442
+Message sent to Kafka: b'{"trip_distance":4.7,"PULocationID":254,"DOLocationID":242,"fare_amount":22.2}'
+1443
+Message sent to Kafka: b'{"trip_distance":2.1,"PULocationID":32,"DOLocationID":20,"fare_amount":18.2}'
+1444
+Message sent to Kafka: b'{"trip_distance":9.5,"PULocationID":51,"DOLocationID":69,"fare_amount":39.0}'
+1445
+Message sent to Kafka: b'{"trip_distance":0.6,"PULocationID":254,"DOLocationID":174,"fare_amount":5.0}'
+1446
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":51,"DOLocationID":174,"fare_amount":17.2}'
+1447
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":242,"DOLocationID":242,"fare_amount":46.2}'
+1448
+Message sent to Kafka: b'{"trip_distance":4.8,"PULocationID":147,"DOLocationID":220,"fare_amount":20.2}'
+1449
+Message sent to Kafka: b'{"trip_distance":1.1,"PULocationID":185,"DOLocationID":182,"fare_amount":15.2}'
+1450
+Message sent to Kafka: b'{"trip_distance":2.4,"PULocationID":212,"DOLocationID":147,"fare_amount":19.2}'
+1451
+Message sent to Kafka: b'{"trip_distance":2.3,"PULocationID":147,"DOLocationID":212,"fare_amount":20.2}'
+1452
+Message sent to Kafka: b'{"trip_distance":2.2,"PULocationID":167,"DOLocationID":169,"fare_amount":12.0}'
+1453
+Message sent to Kafka: b'{"trip_distance":3.2,"PULocationID":242,"DOLocationID":240,"fare_amount":21.2}'
+1454
+Message sent to Kafka: b'{"trip_distance":2.75,"PULocationID":159,"DOLocationID":78,"fare_amount":13.0}'
+1455
+Message sent to Kafka: b'{"trip_distance":10.62,"PULocationID":69,"DOLocationID":51,"fare_amount":36.0}'
+1456
+Message sent to Kafka: b'{"trip_distance":5.4,"PULocationID":213,"DOLocationID":168,"fare_amount":22.2}'
+1457
+Message sent to Kafka: b'{"trip_distance":1.9,"PULocationID":247,"DOLocationID":159,"fare_amount":10.5}'
+1458
+Message sent to Kafka: b'{"trip_distance":1.17,"PULocationID":220,"DOLocationID":200,"fare_amount":5.5}'
+1459
+Message sent to Kafka: b'{"trip_distance":1.73,"PULocationID":168,"DOLocationID":167,"fare_amount":9.0}'
+1460
+Message sent to Kafka: b'{"trip_distance":0.8,"PULocationID":136,"DOLocationID":235,"fare_amount":5.5}'
+1461
+Message sent to Kafka: b'{"trip_distance":11.66,"PULocationID":51,"DOLocationID":159,"fare_amount":40.94}'
+1462
+Message sent to Kafka: b'{"trip_distance":59918.99,"PULocationID":213,"DOLocationID":159,"fare_amount":22.84}'
+1463
+Message sent to Kafka: b'{"trip_distance":1.51,"PULocationID":159,"DOLocationID":69,"fare_amount":8.83}'
+1464
+Message sent to Kafka: b'{"trip_distance":5.64,"PULocationID":168,"DOLocationID":213,"fare_amount":22.88}'
+1465
+Message sent to Kafka: b'{"trip_distance":2.09,"PULocationID":78,"DOLocationID":47,"fare_amount":10.25}'
+1466
+Message sent to Kafka: b'{"trip_distance":8.41,"PULocationID":254,"DOLocationID":168,"fare_amount":29.14}'
+1467
+Message sent to Kafka: b'{"trip_distance":2.06,"PULocationID":47,"DOLocationID":136,"fare_amount":9.9}'
+1468
+Message sent to Kafka: b'{"trip_distance":4.62,"PULocationID":47,"DOLocationID":220,"fare_amount":18.26}'
+1469
+Message sent to Kafka: b'{"trip_distance":9.23,"PULocationID":220,"DOLocationID":220,"fare_amount":28.43}'
+1470
+Message sent to Kafka: b'{"trip_distance":4.53,"PULocationID":212,"DOLocationID":18,"fare_amount":20.25}'
+1471
+Message sent to Kafka: b'{"trip_distance":4.98,"PULocationID":212,"DOLocationID":18,"fare_amount":20.68}'
+1472
+Message sent to Kafka: b'{"trip_distance":11.45,"PULocationID":51,"DOLocationID":159,"fare_amount":40.11}'
+1473
+Message sent to Kafka: b'{"trip_distance":3.89,"PULocationID":159,"DOLocationID":94,"fare_amount":18.57}'
+1474
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":250,"DOLocationID":235,"fare_amount":23.16}'
+1475
+Message sent to Kafka: b'{"trip_distance":5.13,"PULocationID":94,"DOLocationID":168,"fare_amount":22.84}'
+1476
+Message sent to Kafka: b'{"trip_distance":6.16,"PULocationID":119,"DOLocationID":254,"fare_amount":25.85}'
+1477
+Message sent to Kafka: b'{"trip_distance":5.18,"PULocationID":213,"DOLocationID":168,"fare_amount":20.81}'
+1478
+Message sent to Kafka: b'{"trip_distance":2.37,"PULocationID":168,"DOLocationID":247,"fare_amount":11.25}'
+1479
+Message sent to Kafka: b'{"trip_distance":1.44,"PULocationID":169,"DOLocationID":60,"fare_amount":9.47}'
+1480
+Message sent to Kafka: b'{"trip_distance":6.72,"PULocationID":248,"DOLocationID":51,"fare_amount":21.97}'
+1481
+Message sent to Kafka: b'{"trip_distance":11.01,"PULocationID":51,"DOLocationID":159,"fare_amount":39.68}'
+1482
+Message sent to Kafka: b'{"trip_distance":2.66,"PULocationID":168,"DOLocationID":60,"fare_amount":14.67}'
+1483
+Message sent to Kafka: b'{"trip_distance":5.91,"PULocationID":169,"DOLocationID":213,"fare_amount":20.06}'
+1484
+Message sent to Kafka: b'{"trip_distance":7.01,"PULocationID":168,"DOLocationID":240,"fare_amount":28.2}'
+1485
+Message sent to Kafka: b'{"trip_distance":11.19,"PULocationID":159,"DOLocationID":51,"fare_amount":41.17}'
+1486
+Message sent to Kafka: b'{"trip_distance":0.74,"PULocationID":167,"DOLocationID":69,"fare_amount":12.22}'
+1487
+Message sent to Kafka: b'{"trip_distance":2.23,"PULocationID":147,"DOLocationID":78,"fare_amount":9.27}'
+1488
+Message sent to Kafka: b'{"trip_distance":5.03,"PULocationID":167,"DOLocationID":183,"fare_amount":18.43}'
+1489
+Message sent to Kafka: b'{"trip_distance":4.14,"PULocationID":213,"DOLocationID":159,"fare_amount":17.91}'
+1490
+Message sent to Kafka: b'{"trip_distance":7.37,"PULocationID":32,"DOLocationID":168,"fare_amount":22.77}'
+1491
+Message sent to Kafka: b'{"trip_distance":3.05,"PULocationID":78,"DOLocationID":168,"fare_amount":15.95}'
+1492
+Message sent to Kafka: b'{"trip_distance":4.49,"PULocationID":168,"DOLocationID":248,"fare_amount":19.18}'
+1493
+Message sent to Kafka: b'{"trip_distance":11.72,"PULocationID":51,"DOLocationID":159,"fare_amount":39.45}'
+1494
+Message sent to Kafka: b'{"trip_distance":5.98,"PULocationID":185,"DOLocationID":200,"fare_amount":21.86}'
+1495
+Message sent to Kafka: b'{"trip_distance":8.53,"PULocationID":200,"DOLocationID":185,"fare_amount":23.22}'
+1496
+Message sent to Kafka: b'{"trip_distance":10.07,"PULocationID":159,"DOLocationID":51,"fare_amount":40.36}'
+1497
+Message sent to Kafka: b'{"trip_distance":1.68,"PULocationID":81,"DOLocationID":254,"fare_amount":8.8}'
+1498
+Message sent to Kafka: b'{"trip_distance":1.99,"PULocationID":69,"DOLocationID":126,"fare_amount":10.36}'
+1499
+Message sent to Kafka: b'{"trip_distance":2.85,"PULocationID":69,"DOLocationID":94,"fare_amount":14.93}'
+1500
+Message sent to Kafka: b'{"trip_distance":7.76,"PULocationID":69,"DOLocationID":254,"fare_amount":23.23}'
+1501
+Message sent to Kafka: b'{"trip_distance":2.36,"PULocationID":248,"DOLocationID":47,"fare_amount":12.47}'
+1502
+Message sent to Kafka: b'{"trip_distance":4.36,"PULocationID":220,"DOLocationID":254,"fare_amount":13.72}'
+1503
+Message sent to Kafka: b'{"trip_distance":3.0,"PULocationID":32,"DOLocationID":185,"fare_amount":9.56}'
+1504
+Message sent to Kafka: b'{"trip_distance":1.09,"PULocationID":220,"DOLocationID":47,"fare_amount":17.77}'
+1505
+Message sent to Kafka: b'{"trip_distance":5.02,"PULocationID":242,"DOLocationID":235,"fare_amount":23.01}'
+1506
+Message sent to Kafka: b'{"trip_distance":2.47,"PULocationID":69,"DOLocationID":241,"fare_amount":14.4}'
+1507
+Message sent to Kafka: b'{"trip_distance":5.68,"PULocationID":47,"DOLocationID":254,"fare_amount":21.34}'
+1508
+Message sent to Kafka: b'{"trip_distance":4.6,"PULocationID":241,"DOLocationID":119,"fare_amount":16.17}'
+1509
+Message sent to Kafka: b'{"trip_distance":5.22,"PULocationID":220,"DOLocationID":159,"fare_amount":18.74}'
+1510
+Message sent to Kafka: b'{"trip_distance":6.38,"PULocationID":32,"DOLocationID":168,"fare_amount":23.55}'
+1511
+Message sent to Kafka: b'{"trip_distance":5.15,"PULocationID":250,"DOLocationID":235,"fare_amount":23.44}'
+1512
+Message sent to Kafka: b'{"trip_distance":1.73,"PULocationID":247,"DOLocationID":47,"fare_amount":10.89}'
+1513
+Message sent to Kafka: b'{"trip_distance":1.32,"PULocationID":47,"DOLocationID":69,"fare_amount":8.8}'
+1514
+Message sent to Kafka: b'{"trip_distance":4.12,"PULocationID":18,"DOLocationID":51,"fare_amount":18.87}'
+1515
+Message sent to Kafka: b'{"trip_distance":9.97,"PULocationID":159,"DOLocationID":51,"fare_amount":40.24}'
+1516
+Message sent to Kafka: b'{"trip_distance":2.47,"PULocationID":51,"DOLocationID":81,"fare_amount":11.68}'
+1517
+Message sent to Kafka: b'{"trip_distance":10.5,"PULocationID":51,"DOLocationID":247,"fare_amount":36.82}'
+1518
+Message sent to Kafka: b'{"trip_distance":5.02,"PULocationID":185,"DOLocationID":213,"fare_amount":17.12}'
+1519
+Message sent to Kafka: b'{"trip_distance":9.7,"PULocationID":81,"DOLocationID":247,"fare_amount":32.33}'
+1520
+Message sent to Kafka: b'{"trip_distance":9.2,"PULocationID":159,"DOLocationID":159,"fare_amount":8.8}'
+1521
+Message sent to Kafka: b'{"trip_distance":5.58,"PULocationID":168,"DOLocationID":220,"fare_amount":18.25}'
+1522
+Message sent to Kafka: b'{"trip_distance":11.36,"PULocationID":51,"DOLocationID":159,"fare_amount":39.47}'
+1523
+Message sent to Kafka: b'{"trip_distance":11.23,"PULocationID":159,"DOLocationID":51,"fare_amount":36.65}'
+1524
+Message sent to Kafka: b'{"trip_distance":2.13,"PULocationID":169,"DOLocationID":247,"fare_amount":10.47}'
+1525
+Message sent to Kafka: b'{"trip_distance":0.92,"PULocationID":81,"DOLocationID":259,"fare_amount":8.8}'
+1526
+Message sent to Kafka: b'{"trip_distance":12.5,"PULocationID":51,"DOLocationID":159,"fare_amount":41.23}'
+1527
+Message sent to Kafka: b'{"trip_distance":4.62,"PULocationID":20,"DOLocationID":247,"fare_amount":18.7}'
+1528
+Message sent to Kafka: b'{"trip_distance":8.74,"PULocationID":169,"DOLocationID":51,"fare_amount":29.36}'
+1529
+Message sent to Kafka: b'{"trip_distance":1.09,"PULocationID":250,"DOLocationID":250,"fare_amount":8.8}'
+1530
+Message sent to Kafka: b'{"trip_distance":1.84,"PULocationID":78,"DOLocationID":242,"fare_amount":10.66}'
+all done

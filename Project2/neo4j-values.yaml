@@ -1,0 +1,36 @@
+neo4j:
+  name: neo4j-standalone
+  password: processingpipeline
+  edition: "community"
+  acceptLicenseAgreement: "yes"
+
+volumes:
+  data:
+    mode: defaultStorageClass
+    defaultStorageClass:
+      requests:
+        storage: 1Gi
+
+config:
+  server.default_listen_address: "0.0.0.0"
+  dbms.security.auth_enabled: "true"
+  server.directories.plugins: "/var/lib/neo4j/plugins"
+
+apoc:
+  core:
+    enabled: true
+
+# Enable GDS (Graph Data Science) plugin
+gds:
+  enabled: true
+
+services:
+  neo4j:
+    enabled: true
+    spec:
+      type: ClusterIP
+
+env:
+  NEO4J_PLUGINS: '["graph-data-science"]'
+  NEO4J_dbms_security_procedures_unrestricted: "gds.*,apoc.*"
+  NEO4J_dbms_security_procedures_allowlist: "gds.*,apoc.*"
